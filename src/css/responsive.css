@@ -1,0 +1,203 @@
+/* Responsive CSS - Mobile First Design */
+
+/* Mobile Styles (Default) */
+.vocabulary-container {
+    grid-template-columns: 1fr;
+    gap: 15px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.word-box {
+    padding: 15px;
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+}
+
+.english,
+.russian {
+    font-size: 1rem;
+}
+
+body {
+    padding: 15px;
+}
+
+.pagination {
+    margin: 2rem 0;
+    padding: 15px;
+}
+
+.page-current,
+.page-link {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 0.9rem;
+}
+
+/* Small Tablets */
+@media screen and (min-width: 576px) {
+    .vocabulary-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 18px;
+    }
+    
+    h1 {
+        font-size: 4rem;
+    }
+    
+    .word-box {
+        flex-direction: row;
+        text-align: left;
+        gap: 0;
+        padding: 18px;
+    }
+    
+    .english,
+    .russian {
+        font-size: 1.05rem;
+    }
+}
+
+/* Medium Tablets */
+@media screen and (min-width: 768px) {
+    .vocabulary-container {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+    
+    h1 {
+        font-size: 6rem;
+    }
+    
+    .word-box {
+        padding: 20px;
+    }
+    
+    .english,
+    .russian {
+        font-size: 1.1rem;
+    }
+    
+    body {
+        padding: 20px;
+    }
+    
+    .pagination {
+        margin: 3rem 0;
+        padding: 20px;
+    }
+    
+    .page-current,
+    .page-link {
+        padding: 12px 20px;
+        margin: 0 5px;
+        font-size: 1rem;
+    }
+}
+
+/* Large Tablets and Small Desktops */
+@media screen and (min-width: 992px) {
+    .vocabulary-container {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    
+    h1 {
+        font-size: 8rem;
+    }
+}
+
+/* Large Desktops */
+@media screen and (min-width: 1200px) {
+    h1 {
+        font-size: 12rem;
+        margin-bottom: 3rem;
+    }
+    
+    .vocabulary-container {
+        gap: 25px;
+    }
+    
+    .word-box {
+        padding: 25px;
+    }
+    
+    .english,
+    .russian {
+        font-size: 1.2rem;
+    }
+}
+
+/* Extra Large Screens */
+@media screen and (min-width: 1400px) {
+    main {
+        max-width: 1400px;
+    }
+    
+    .vocabulary-container {
+        gap: 30px;
+    }
+    
+    .word-box {
+        padding: 30px;
+    }
+    
+    .english,
+    .russian {
+        font-size: 1.3rem;
+    }
+}
+
+/* Portrait Orientation Adjustments */
+@media screen and (orientation: portrait) and (max-width: 768px) {
+    h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .vocabulary-container {
+        gap: 12px;
+    }
+    
+    .word-box {
+        padding: 12px;
+        flex-direction: column;
+        gap: 8px;
+    }
+    
+    .english,
+    .russian {
+        font-size: 0.95rem;
+    }
+}
+
+/* Landscape Orientation for Mobile */
+@media screen and (orientation: landscape) and (max-height: 500px) {
+    h1 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+    
+    .vocabulary-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+    
+    .word-box {
+        padding: 10px;
+        flex-direction: row;
+    }
+    
+    body {
+        padding: 10px;
+    }
+    
+    .pagination {
+        margin: 1rem 0;
+        padding: 10px;
+    }
+}
