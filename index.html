@@ -37,91 +37,91 @@
     <main>
         <div class="vocabulary-container">
             <!-- Row 1 -->
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Hello', 'Привет', 'Hello, how are you?', 'Привет, как дела?')">
                 <span class="english">Hello</span>
                 <span class="russian">Привет</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Goodbye', 'До свидания', 'Goodbye, see you tomorrow!', 'До свидания, увидимся завтра!')">
                 <span class="english">Goodbye</span>
                 <span class="russian">До свидания</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Thank you', 'Спасибо', 'Thank you for your help.', 'Спасибо за вашу помощь.')">
                 <span class="english">Thank you</span>
                 <span class="russian">Спасибо</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Please', 'Пожалуйста', 'Please help me.', 'Пожалуйста, помогите мне.')">
                 <span class="english">Please</span>
                 <span class="russian">Пожалуйста</span>
             </div>
             
             <!-- Row 2 -->
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Yes', 'Да', 'Yes, I agree.', 'Да, я согласен.')">
                 <span class="english">Yes</span>
                 <span class="russian">Да</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('No', 'Нет', 'No, I do not want.', 'Нет, я не хочу.')">
                 <span class="english">No</span>
                 <span class="russian">Нет</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Water', 'Вода', 'I need water.', 'Мне нужна вода.')">
                 <span class="english">Water</span>
                 <span class="russian">Вода</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Food', 'Еда', 'The food is delicious.', 'Еда вкусная.')">
                 <span class="english">Food</span>
                 <span class="russian">Еда</span>
             </div>
             
             <!-- Row 3 -->
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('House', 'Дом', 'My house is big.', 'Мой дом большой.')">
                 <span class="english">House</span>
                 <span class="russian">Дом</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Family', 'Семья', 'I love my family.', 'Я люблю мою семью.')">
                 <span class="english">Family</span>
                 <span class="russian">Семья</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Friend', 'Друг', 'He is my best friend.', 'Он мой лучший друг.')">
                 <span class="english">Friend</span>
                 <span class="russian">Друг</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Love', 'Любовь', 'Love is beautiful.', 'Любовь прекрасна.')">
                 <span class="english">Love</span>
                 <span class="russian">Любовь</span>
             </div>
             
             <!-- Row 4 -->
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Time', 'Время', 'What time is it?', 'Который час?')">
                 <span class="english">Time</span>
                 <span class="russian">Время</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Day', 'День', 'Have a good day!', 'Хорошего дня!')">
                 <span class="english">Day</span>
                 <span class="russian">День</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Night', 'Ночь', 'Good night!', 'Спокойной ночи!')">
                 <span class="english">Night</span>
                 <span class="russian">Ночь</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Morning', 'Утро', 'Good morning!', 'Доброе утро!')">
                 <span class="english">Morning</span>
                 <span class="russian">Утро</span>
             </div>
             
             <!-- Row 5 -->
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Evening', 'Вечер', 'Good evening!', 'Добрый вечер!')">
                 <span class="english">Evening</span>
                 <span class="russian">Вечер</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Work', 'Работа', 'I go to work.', 'Я иду на работу.')">
                 <span class="english">Work</span>
                 <span class="russian">Работа</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('School', 'Школа', 'Children go to school.', 'Дети идут в школу.')">
                 <span class="english">School</span>
                 <span class="russian">Школа</span>
             </div>
-            <div class="word-box">
+            <div class="word-box" onclick="showPopup('Book', 'Книга', 'I read a book.', 'Я читаю книгу.')">
                 <span class="english">Book</span>
                 <span class="russian">Книга</span>
             </div>
@@ -253,5 +253,44 @@
     <footer>
         <p>© 2025 Russian Learning Platform. Master Russian vocabulary step by step.</p>
     </footer>
+
+    <!-- Pop-up Modal -->
+    <div id="popup-overlay" class="popup-overlay" onclick="closePopup()">
+        <div class="popup-content" onclick="event.stopPropagation()">
+            <button class="popup-close" onclick="closePopup()">×</button>
+            <div class="popup-word-pair">
+                <div class="popup-word english-popup" id="popup-english-word"></div>
+                <div class="popup-word russian-popup" id="popup-russian-word"></div>
+            </div>
+            <div class="popup-sentence-pair">
+                <div class="popup-sentence english-sentence" id="popup-english-sentence"></div>
+                <div class="popup-sentence russian-sentence" id="popup-russian-sentence"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function showPopup(englishWord, russianWord, englishSentence, russianSentence) {
+            document.getElementById('popup-english-word').textContent = englishWord;
+            document.getElementById('popup-russian-word').textContent = russianWord;
+            document.getElementById('popup-english-sentence').textContent = englishSentence;
+            document.getElementById('popup-russian-sentence').textContent = russianSentence;
+            
+            document.getElementById('popup-overlay').classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closePopup() {
+            document.getElementById('popup-overlay').classList.remove('active');
+            document.body.style.overflow = 'auto';
+        }
+
+        // Close popup with Escape key
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                closePopup();
+            }
+        });
+    </script>
 </body>
 </html>
