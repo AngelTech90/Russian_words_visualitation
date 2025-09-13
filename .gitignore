@@ -1,18 +1,18 @@
-# Python virtual environment
-**/venv/
-**/env/
-**/.venv/
-**/__pycache__/
-*.pyc
-**/.Python
-**/pip-log.txt
-**/.env
-**/.pytest_cache/
-**/.pytype/
+# Python virtual environment (scoped to src/python)
+./src/python/**/venv/
+./src/python/**/env/
+./src/python/**/.venv/
+./src/python/**/__pycache__/
+./src/python/*.pyc
+./src/python/**/.Python
+./src/python/**/pip-log.txt
+./src/python/**/.env
+./src/python/**/.pytest_cache/
+./src/python/**/.pytype/
 
-# Virtual environment directories
-**/bin/
-**/lib/
-**/lib64/
-**/include/
-**/pyenv.cfg   
+# Virtual environment directories (scoped to src/python)
+./src/python/**/bin/
+./src/python/**/lib/
+./src/python/**/lib64/
+./src/python/**/include/
+./src/python/**/pyenv.cfg
