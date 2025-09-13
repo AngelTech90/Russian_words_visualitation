@@ -1,0 +1,9196 @@
+(+pr) in; (+a) into, to
+not
+(+pr) on, at; (+a) onto, to
+I
+he
+what, that
+(+inst) with; (+g) from, off
+this, that, it
+to be; there is, there are
+and, but (slight contrast)
+all
+they
+she
+how, as, like
+we
+towards, to
+by; at (used in ‘have’ construction)
+you (polite/pl)
+this
+(+a) for; (+inst) behind
+that
+but
+you (familiar)
+along; around; according to
+out of, from
+about, concerning
+one’s own
+so
+one
+here, there (pointing)
+which, who
+our
+only
+still, yet
+from
+such
+to be able
+to speak; to have a talk, talk (to)
+to say
+for
+already
+to know
+yes; and, but
+what (kind of)
+when
+different, other
+first
+in order to
+his, its
+year
+who
+matter, business
+no; (+g) there is no
+her
+very
+large
+new
+to become; to stand; p: begin
+work
+now, right now
+time
+person
+to go (on foot)
+if
+two
+my
+life
+up to; until
+where
+each, every
+the very, most
+to want
+here
+it is necessary
+people
+now
+house
+once; a time
+day
+or
+town, city
+there
+word
+eye
+then, next
+to see
+their
+under
+even
+to think
+well; it is good
+it is possible
+here (like здесь)
+thousand
+whether [question word]
+water
+nothing
+much, many, a lot
+hand; arm
+self [(a) pronoun]
+young
+too
+to ask (s.o. about sth)
+without
+to do, make
+three
+all; all the time
+that; then
+to live; p: live for a while
+labour
+self
+good
+second
+across, via, after
+place
+after
+country
+twenty
+ought, obliged, must
+more
+your
+door
+friend
+machine; car
+room
+to study
+above
+head
+why
+earth, land
+table
+to give (sth to s.o.)
+in front of, before
+then, at that time
+to sit (p: sit for a while)
+boy
+girl
+summer; (after numbers) years
+today
+side
+completely
+small
+a few, some
+suddenly
+not a
+face; person
+of course
+(the) people
+to begin
+five
+you know (expecting agreement)
+question
+to write
+letter
+in the presence/time of; attached to
+mother
+(it is) necessary
+to watch; (на +a) look (at)
+strength, force
+together
+to go out
+to like, love; p: to fall in love with
+road
+old
+street
+to decide; solve
+book
+always
+voice; vote
+to mean
+at once
+only (=только)
+minute
+again
+window
+would (conditional particle)
+to leave (on foot)
+nine hundred
+last
+to go through, pass (on foot)
+father
+hour
+simply
+to see
+emphasizes preceding word
+third
+that is why because
+nobody
+to wait (for)
+how many, how much
+high, tall
+better
+to receive, get
+almost
+wood, forest
+end
+leg/foot
+(one’s) own
+hundred
+artist
+four
+while
+until
+to listen to
+way, journey
+white
+republic
+quickly
+where (whither)
+main
+children
+to tell, talk (about)
+advice; council
+newspaper
+to understand
+it is time; time, season
+your (familiar)
+to be (repeatedly)
+to find
+song
+(first) name
+party (political)
+evening
+again
+to have (with non-concrete object)
+between
+real; present
+plan
+truth
+forty
+to go there and back
+to walk around
+to recognize; find out
+field
+night
+to enter
+red
+more
+lesson
+it is not allowed; it is impossible
+body
+alongside
+to lie, (p) lie for a while
+about (=о +pr) (coll)
+interesting
+never
+region
+necessary
+especially
+to answer
+head, boss
+various, different
+thirty
+ten
+world; peace
+picture
+committee
+thought
+guest
+elder, senior
+view, look; species
+among
+case, occurrence, chance
+people’s
+to remember
+to request, ask (s.o. to do sth)
+let
+conversation
+yard, court
+for a long time
+month; moon
+to come back
+union
+war
+although
+bank, shore
+whole
+group
+soon
+student
+comrade
+part
+to sleep
+full
+here (hither)
+to arrive (by transport)
+it
+woman
+meeting, collection
+to approach; (+d) to suit
+tree
+garden
+hardly, just
+to fear, be afraid
+to occupy oneself
+dad; Pope
+help
+past
+directly, straight
+better; best
+master
+secretary
+wall
+to turn out (to be); to find oneself
+son
+brother
+why, for what
+to play
+institute; institution
+fifth
+earlier
+quiet
+black
+great
+tomorrow
+wide
+few; not much
+in the end
+shoulder
+really
+surely
+snow
+future (adj)
+heart
+(it is) difficult
+language; tongue
+to arrive (on foot)
+Russian; a Russian
+recently
+Soviet (adj)
+some, a certain
+to continue
+member
+consequently
+to notice
+flat, apartment
+to know how to; be able to, manage to
+light; world
+back, ago
+schoolboy
+home, homewards
+right; law
+strong, powerful
+middle; average
+further
+task, problem
+to run
+wind
+to help (s.o.)
+as if
+dear, expensive
+history; story
+to be silent; p: to fall silent
+sun
+at home
+sea
+enormous
+pupil
+feeling
+to sing
+struggle
+speech
+to go (by transport)
+bread
+movement, motion
+holiday, festival
+attention
+(+a +inst) consider (sth/s.o. to be sth) 
+to count
+sometimes
+to shout
+factory
+to have time, to be in time
+really, actually
+namely, exactly
+general (adj)
+any
+director
+beautiful
+number; hotel room
+near; about
+lad, boy
+economy
+around
+soul
+fourth
+six
+to raise, lift
+look, view
+engineer
+as well
+heavy
+flower
+to take
+evident, visible
+air
+(since) long ago
+to forget
+from behind; because of
+experience; experiment
+to call (s.o.); summon
+building; building site
+wife
+milk
+to place, put (in a standing position)
+however
+corner
+paper
+to take, accept, receive
+long
+occupation; (pl) classes
+clean, pure
+to sit down; get into (transport)
+often
+sixth
+military, war (adj); soldier
+to get up, stand up
+game
+circle, club
+master, boss, owner
+(absolutely) no
+uncle
+alive, lively
+village; countryside
+manner, way, shape, image
+order
+construction worker, builder
+success
+to bring
+too, too much
+good, kind
+before
+story
+family
+morning
+camp
+familiar; an acquaintance
+army
+nose
+please, please do; don’t mention it
+to gather; intend to; be about to
+at first; from the beginning
+technology
+money
+report
+both
+seventh
+late
+to hit; to get to
+meeting
+possibility
+culture
+to follow (+d); to be required
+team, crew; command
+well
+queue, turn
+personal
+school
+to grow
+collective farm
+reason (+g for), cause
+children, boys (coll)
+little girl
+many
+organization
+mother; mummy
+station
+there (thither)
+already; really
+completely, perfectly
+calmly, quietly
+to want, feel like; p: to start to want
+all the same, for all that
+than
+as though, allegedly
+opinion
+for the first time
+any (any you like)
+slowly
+each other
+to have to
+beginning
+resembling, similar
+hall
+to hold, keep
+enterprise, factory
+sporting
+cheerful, merry
+to be healthy, prosper
+Hello/How are you?
+forward; in advance
+green
+sky, heaven
+to meet
+attitude, relation (to); (pl) relations
+grandmother
+children’s
+to stop
+answer
+eight
+board
+to appear
+week
+factory
+form
+to be (sth) (formal)
+thing
+hero
+except, besides
+to rise, climb
+congress
+exactly; punctually
+movement
+equal, alike (adv)
+step
+club
+large, important
+to remember, recall
+small
+artistic
+someone
+to please (s. o.)
+school (adj)
+state
+American
+to build
+eighth
+a little, not much
+pause
+to show (sth to s.o.)
+far
+after that, then
+building
+once, one day
+bird
+aeroplane
+seven
+driver
+two hundred
+well-known
+correctly
+decision; solution
+in the evening
+ready
+to try
+for example
+simple
+a work
+to learn (sth)
+to teach (s.o. sth)
+other
+result
+doctor
+to happen
+to call, name (s.o. sth)
+important
+knowledge
+to smile (at)
+badly
+to learn (to do sth)
+to open; to discover
+to stay
+science; scholarship
+stone
+against; opposite
+development
+God
+society
+nothing; all right, not too bad; never mind
+condition
+gentleman; Mr
+soldier
+revolution
+to begin
+oblast, province; area, field (of activity)
+something; (coll) somewhat, somehow
+power
+fate
+act, action
+measure
+energy
+row, line, series
+to be situated; to be found, turn up
+position
+to look (at)
+century; age, era
+million
+social, public
+basic, fundamental
+general (noun)
+interest
+easily; it is easy
+material
+target, purpose
+fire; light
+law
+nature
+mass
+battle
+political
+ray, beam
+wave
+process; trial, lawsuit
+scientific, scholarly
+different, various
+world (adj)
+system
+leaf (of plant); sheet (of paper)
+even if, if only, even, although
+child
+connection, link, communication
+in general
+to believe (+d) s.o. or sth, (в +a ) in s.o. or sth
+man
+anything
+to present, introduce
+to search for, to look for
+writer
+industry
+learned, scholarly; (as noun) scholar, scientist
+faithfully, truly; it is true
+to serve
+government
+economic
+to eat
+(blue collar) worker; working
+modern, contemporary
+worker, s.o. who works
+devil
+quality
+international
+officer
+problem
+to demand
+communism
+ship
+class; classroom
+kilometre
+number; date
+base; depot
+finger; toe
+quantity
+communist
+victory
+river
+to drink, have an alcoholic drink
+human (adj)
+mountain, hill
+nice, dear
+politics; policy, policies
+production
+national; ethnic
+cold
+state (adj)
+from where
+complicated, complex
+rich
+to throw; abandon, give up
+construction
+meaning, importance
+chairman
+character
+essential
+to laugh (at)
+to struggle (against)
+(manufactured) article
+special
+death
+article (newspaper, journal)
+bill, account; count, score
+very, extremely
+rural, country
+means; (pl) resources
+similar
+example
+revolutionary
+speed
+fact
+small
+tea
+dark
+phenomenon
+to consist (of)
+clearly; it is clear
+dot, point; full stop
+to cost, to be worth
+mind, intellect
+fully, entirely
+event
+to exist
+study, office
+thank you
+enemy
+deep
+French (adj)
+close, near
+ah!, oh!
+activity
+to bring (s.o.); (к +d) lead to
+tube, pipe; telephone receiver
+English; British (adj)
+this (=этот) (bookish; used in set phrases)
+temperature
+state, condition; fortune
+happiness, luck
+sense, meaning
+rouble
+yesterday
+right; right-wing
+author
+majority
+it is (well) known
+small, petty, fine
+flow, current; course
+arms, weapons
+husband
+to happen; to originate
+free
+idea
+effort
+line
+art
+composition, make-up
+capitalism
+literature
+page
+to beat, hit
+otherwise
+reader
+(the) most
+growth, increase; height
+American (noun)
+root
+German (noun)
+serious
+characteristic, property
+to look, glance (at)
+high (up); highly; it is high
+population
+glass (material)
+theatre
+hope
+fairly, rather; contentedly; (+g) enough
+edge; region, area
+(Russian) peasant
+steppe
+colour; blossom; prime
+grandfather
+base, foundation
+early; it is early
+technical; engineering
+happy, lucky
+circle
+moment; feature (of a situation)
+it is essential; it is necessary
+system, structure; military formation
+daughter
+to make use of
+minister (government)
+dark blue
+to pass, hand over; transmit, convey
+programme
+ten; a decade
+blood
+to give back; to give away; to return
+separate, individual
+freedom
+(3rd pers +g) to be enough, suffice
+inner, interior, internal
+to appear in public; protrude; to speak (publicly)
+somehow; (coll) once, at one time
+to occupy
+representative
+front (war)
+wealth, riches
+to want, wish (for)
+any; any kind of
+depth
+past
+management; administration; control
+glory, fame
+a hundred
+terrible, dreadful
+(by) so much
+spring (season)
+to act, function, affect
+floor; sex
+percent, percentage
+homeland, native land
+stage (theatre); scene
+significant
+metre (measurement)
+someone else’s; foreign
+will; freedom, liberty
+tooth
+less
+method
+to forgive (s.o. or sth), pardon
+to tie; to connect, bind
+bright
+sand
+level; standard
+historical; historic
+source
+half
+service
+harmoniously; all right (unenthusiastic agreement)
+to disturb, hinder, prevent; (+a) stir
+village
+however, but; or rather
+hot
+education; formation
+ton (1,000 kilogrammes)
+to summon; cause
+eyesight, vision
+sea, marine; naval
+the rest (of)
+seed
+strongly; very much
+thin, slender; fine, subtle
+fleet
+talk, discussion
+given
+sufficiently; (+g) enough
+only, sole
+lamp
+production, output
+centre
+at all
+western
+correspondent
+very probably
+reception; method, device
+other
+terribly; it is terrible
+by, near
+out, away; over there
+party (adj)
+telephone
+to succeed
+quick, fast
+peasant
+exit, way out
+to attempt
+line of poetry
+period
+to kill; to murder
+friendship
+hardly, scarcely, only just
+really? is it possible?
+degree, extent
+fighting, battle
+troops, army
+map, card
+direction
+mankind
+like, such as
+enormous
+light, easy
+to use, make use of
+offer, suggestion; sentence (grammar)
+element
+to appear
+probably
+to bake
+stove
+to seem, to appear, to show oneself
+intelligent
+head, chief; chapter
+to cry, weep, p: to begin to cry
+through
+way, method
+able, capable
+church
+watch, clock
+honour
+open (adj)
+memory
+understandably; I see! I understand!
+meeting, conference
+remarkable, splendid
+famous
+object, article; subject, topic
+tear
+somewhere
+bottom (of sea, river, well, vessel)
+shop, store
+substance, matter
+creation; creature
+old woman
+pocket
+museum
+to fall
+clear
+surface
+it is near, it is not far; near, close; closely
+to announce
+gold, golden
+knee
+equal (adj)
+following, next
+to take off; photograph; rent
+fear
+warm
+height
+music
+island
+to relate to; to regard, treat
+to cease, stop
+so
+peace, peaceful
+difficult
+long (in time)
+iron (adj)
+straight, direct
+social
+(a) hair
+upbringing
+child
+to buy
+moon
+to allow; let in; let go
+instead of
+in spite of
+fist; kulak (rich peasant)
+kitchen
+love
+drawing
+layer, stratum
+subject, topic, theme
+price
+horse
+material (adj)
+theory
+peasant woman; (coll) old woman, woman
+to lose
+beautiful, fine
+family, kin; birth, origin; sort, kind; gender
+light blue
+God, the Lord
+lip
+to send
+leader, manager; instructor, supervisor
+special
+aunt
+central
+in all, altogether; only
+conclusion, deduction
+to carry out, fulfil
+grain, seed
+young people
+eh! oh! (expressing regret, annoyance, reproach, amazement)
+possibly; possible; it is possible
+deep; deeply, it is deep
+to obtain, achieve; to strive for; to get
+local
+plant
+old man
+campaign; walking tour, expedition; cruise
+back [noun]
+to judge; (+a) try (s.o.)
+to die
+economics; economy
+ill; sore; (as noun) patient, invalid
+spirit; breath
+lower, below
+ocean
+stock, supply; reserve
+earthly, terrestrial
+ministry (government)
+without fail, definitely
+use; benefit
+to offer, propose (sth to s.o.)
+to create
+anew, again; newly
+to depend (on)
+fruit
+radio
+various, varied
+existence
+former
+to touch; to concern
+in no way; by no means
+foundation, basis; founding
+to order, command s.o.
+native; own; (as noun, in pl) relatives, relations
+sun, solar; sunny
+to strive (for)
+gas
+instrument; implement; (field) gun, piece of ordnance
+joy
+volume (book)
+honest
+investigation; research
+palm (of the hand)
+definite; certain
+position
+for the sake of
+period (of time); (last) date, deadline
+to hear
+ear
+noise, din
+apparatus
+much (with comparatives)
+capital (financial)
+bad
+square; area
+train
+professor
+seriously
+salt
+sleep; dream
+shade; shadow
+citizen
+to get, obtain; take out; reach
+fool
+for (because)
+horse
+wheat
+so much, so many
+epoch, age
+let’s (do sth)
+misfortune
+distant, remote
+to close, shut; to cover
+star
+usual
+to lead, conduct; spend (time)
+to converse, talk
+size, scale, extent
+to allow, permit; solve
+there is nothing
+atmosphere
+boat, rowing boat
+name; title (book)
+correct, right
+empty
+boot; jackboot
+quicker; rather
+further
+magazine, periodical; journal, register
+or
+television (set)
+rocket
+ability
+academy
+impression
+ancient
+to be, be available
+to wait (for); to expect
+steamer
+disarmament
+footprint; trace, vestige
+blow, strike
+exterior
+knife
+breast
+extreme
+sailor
+on the contrary, vice versa, the other way round
+advanced; progressive
+principle
+secret, mystery
+quiet, calm
+to set up, establish
+electric
+faithful, correct, reliable, sure
+gate, gates
+palace
+gold
+opening; discovery
+from here; hence
+specialist
+length
+to observe, watch
+immediately, forthwith
+German (adj)
+rise, increase; promotion
+to turn out, work out, result
+to agree (c +inst) with, (на +a) to
+participation; sympathy
+merrily, cheerfully
+left; left-wing
+Moscow (adj)
+constant, permanent
+command, order
+novel; love affair, romance
+laughter, laugh
+hard, firm, solid
+tone, musical tone; colour tone, tint
+absolutely
+detail; component (of machine)
+volume, capacity, size
+interestingly; it is interesting
+(small) book
+course, course of study; rate of exchange
+soil
+low
+obviously
+dust
+light, bright
+grey
+analysis
+influence
+to be silent for a while
+leadership; guide, manual
+atomic
+frontier; limit
+defence
+piece
+silence
+probably
+unexpectedly
+pair, couple
+shawl, kerchief
+practical
+limit
+wall, partition, side
+essence; being, creature
+quiet, silence
+commodity, article
+summit, peak
+explosion
+guilty, to blame
+to grow, increase
+civil, civic
+agent, figure
+rain
+to be called
+impossibly; it is impossible
+to promise (s.o.)
+to permit (s.o.)
+role
+sister
+consequently, therefore
+capital (city)
+figure
+tsar
+poor
+upper
+after
+change, alteration
+to carry (around); wear
+peculiarity, special feature
+glad (short adj)
+sharply, abruptly
+bell, ring; telephone call
+test, trial; ordeal
+necessity
+environment, situation; furniture
+seal, stamp; print, printing
+cause, grounds
+constantly, perpetually
+to be meant
+glass, tumbler
+exact, precise
+to go away, leave (by transport)
+widely, broadly
+possible
+(detailed) study (of)
+commission, committee
+hectare (10,000 square metres, 2.5 acres)
+to thank (s.o. for sth)
+shining, bright, brilliant
+weight
+doctor
+yellow
+cry, shout
+now (= теперь); today (coll)
+to supply, provide (s.o. with sth); (+a) assure, guarantee
+poet
+mouth
+dog
+neighbouring, next
+fog, mist
+captain
+philosophy
+to demonstrate, prove
+health
+to pardon
+mistake
+immediately
+carriage, coach, wagon
+to burn, be alight
+distant, remote
+canal; channel
+practice
+regret
+strengthening
+way of life, everyday life
+to become; be done
+roof
+defect; (+g or в +pr) shortage (of)
+branch (of science, industry, government, etc.)
+to give; serve (food); present
+search
+port
+meeting, rendezvous
+demand
+feature, trait; line
+staff (of institution); state (of the USA, Australia)
+to sigh
+note (written)
+lake
+to organize
+consciousness
+warmly; it is warm; warmth
+former
+space, expanse
+to make up, compose, constitute
+travelling companion; satellite
+to shoot (at)
+along
+to meet (s.o.)
+document
+to (day) dream (about)
+usually
+product
+second
+agricultural
+strange
+fraternal, brotherly
+to reach (s.o. or sth)
+achievement
+(к +d) to call on s.o.; (за +a) go behind, set (of sun)
+dead
+powerful
+motor, engine
+independence
+presentation; performance; notion, conception
+application, use
+difficulty
+pleasure
+narrow
+fighter, soldier
+pitifully; it’s a pity; (+g) be sorry for
+mass (adj)
+less
+dream, daydream
+night (adj)
+back (adv)
+danger
+to refuse (to do sth); (от +g) renounce (sth)
+regiment
+fully, completely
+attempt
+the past
+rice
+calm
+coal
+establishment, institution
+cheek
+age
+loudly
+smoke
+wish, desire
+care, trouble
+utilization
+beauty
+powerful
+gradually
+president
+fish
+to watch, keep an eye on
+to seize, grab
+darkness
+grass; herb
+heavily; gravely; it is hard, painful
+improvement
+smile
+learning, study, instruction
+stupid, silly
+in compensation, on the other hand
+forehead
+not a little, a good many
+generation
+teacher
+evidently
+to wage war
+speech; (public) appearance
+(a) youth
+significantly, considerably
+from under
+to lie down
+(+inf) to try; (+a) test; taste
+industrial
+weak
+chair
+photograph
+chain
+uprising
+task, assignment
+probably, most likely
+to turn to; (в +a) turn into; (c +inst) handle sth, treat s.o.
+October
+to distinguish os; (от +g i only) differ
+to repeat
+content (noun)
+to arrange, organize (sth)
+it is important
+faith, belief
+democratic
+debt; (sg only) duty
+winter
+firmly
+in silence, without speaking
+crossing, transition
+to become acquainted with; meet
+portrait
+marvel, miracle
+side
+to bring in, introduce
+to hold on (to); (+g) keep to
+to pity, feel sorry for; (o +pr) regret
+so, so then
+to hope
+mood
+cloud
+simultaneously
+to move away (from); depart (train)
+concept, notion
+stream, flow
+to be born
+cost, value
+striving, aspiration, desire
+territory
+to hang, be hanging
+down
+mountain (adj); mining
+urban, town (adj)
+divan, couch
+to start speaking
+incidentally, by the way; opportunely
+model, pattern
+to belong to; (к +d) be a member of
+court (of law); trial
+car
+address
+upwards
+spiritual
+foreign
+literary
+to remind (s.o. of sth.)
+carefully, cautiously
+to defeat, conquer
+useful
+calculation
+confident, sure
+illness
+ahead
+soon
+iron
+towards
+to possess
+dangerous
+one and a half
+(+inst) to be considered; (c +inst) take into account
+labour, work (adj)
+to take part in
+neck
+southern
+to rush, throw oneself
+general; universal
+agreement; treaty; contract
+short
+cultured, civilized; cultural
+soft; gentle
+o; oh (expressing surprise or fright)
+to develop
+to pull, drag
+eternal
+January
+to reveal; discover
+special, particular
+preparation (for)
+to think up, invent
+editorial office; editing
+property (something owned)
+strictly
+to convince oneself, become sure (of sth)
+threat
+to destroy; do away with
+load; cargo
+healthy
+ring (i.e. small hoop)
+to finish; graduate
+bag, sack
+bridge
+changing; shift (e.g in factory); replacement
+photograph
+cart
+type; (coll) bloke, fellow
+to hurry, be in a hurry
+physical
+piece of news
+vodka
+to be said
+nine
+to finish
+round
+morals, morality; moral (of a story)
+(coll) a little, a bit
+offence, insult
+usual; ordinary
+finally, definitively
+to wait a little
+in my opinion; as I would have it
+assistant
+drunk
+joining, combination; joint, join (tech)
+crowd
+to strike, hit
+worse
+single, sole; united
+evil, wicked; bad-tempered, fierce
+appointment (to a post); purpose (for which sth is intended)
+autumn
+steam
+field (adj)
+to read
+strictly, properly
+ancient
+dining-room; canteen, refectory
+dry
+to prepare; to cook
+power (powerful country)
+to force, compel (s.o. to do sth)
+wheel
+to fly
+something (=что-то)
+to suppose, think
+precipice, abyss
+fresh
+north, northern
+to gather, collect
+surprising, astonishing
+participant
+owner, proprietress; hostess
+whose
+to worry, be worried (about)
+firstly, in the first place
+expression
+grief, sorrow
+childhood
+dollar
+portion, share; lot, fate
+sum, total
+corridor
+now; today (=теперь)
+to admit; to recognize
+Wednesday; environment, milieu
+college (vocational)
+bomb
+office
+highest, supreme
+grandfather
+reality; validity (of a document)
+meeting, conference, session
+key; spring, source
+armchair
+to leave (sth), abandon
+to stop (sth)
+to mark, note, record, mention; to celebrate
+weather
+to act; (в +a) enter (organization)
+regime; rules, regulations; diet
+resolutely; definitely, absolutely
+comparison
+strangely; it is strange
+strict, severe
+it is shameful; (+d of person X) X is ashamed
+dance
+painfully; it is painful
+good, good deeds; goods (coll)
+to conclude; enclose; imprison
+(heavy) curtain
+at some time, at one time
+to end, come to an end
+1,000,000,000 (American billion)
+present, present-day
+circumstance
+oh, ah (expressing regret, annoyance)
+to cross, go over
+to get used to; get into the habit of
+to send
+opponent, adversary
+real; realistic
+match, match stick
+creative
+trade
+installation; purpose
+air (adj)
+everywhere
+journalist
+to take, grasp; seize
+title; calling
+to ring, telephone (s.o.)
+concrete, specific
+to shout
+March (month)
+large number
+to send off
+contradiction
+sharp
+doubt
+rate, speed
+pipe
+prison
+attentively
+extra, spare
+to perish
+threshold
+to arrive (formal); (coll) increase
+request
+to take place
+creative work
+university
+academician
+battle
+adult
+drop
+checking
+much
+incomprehensible
+lower
+carrying out
+progress
+point
+rare
+to contain
+respect
+horror
+coloured
+sphere
+to tell lies; talk nonsense
+lady
+democracy
+wooden
+truth
+to vanish; disappear
+stone (adj)
+favourite
+from there
+behaviour
+to lead
+to stand; p: to stand for a while
+need
+sleeve
+united
+to labour
+surname
+to make a noise
+active
+library
+to travel
+to climb
+to form
+stove
+planet
+comprehensible
+rule
+transparent
+trade (adj)
+greatcoat
+to joke
+joke
+box, crate
+authority
+to be ill; to hurt
+evening (adj)
+eminent
+suddenly
+to take a walk; (coll) take time off
+twelve
+wild animal
+sound
+to sound
+to command (sth)
+to smoke
+without fail
+low
+to be formed
+to mean
+sharp
+feeding, food
+strip
+sacred; saint
+middle
+by chance
+24 hours
+to run away
+hat (without brim)
+aggression
+thanks to
+evil
+around
+entrance steps; porch
+often
+meal; dinner
+support
+rise
+and furthermore
+project
+communication
+neighbour
+essence
+firmly
+figure, number
+Englishman
+secondly
+arming; arms
+east
+smell
+winter (adj)
+pencil
+cow
+corps; building; body, frame
+paint
+May
+transmission
+to walk about
+to resemble
+belt, waist
+to point out
+(it’s) unlikely
+horizon
+it’s a pity
+inhabitant
+to think deeply, become thoughtful (about)
+ to change, alter; (+d) betray
+moment
+there’s no time; once
+responsibility
+entrance hall
+post (job)
+distance
+information, reduction
+north
+to be angry (with)
+conscience
+tradition
+phrase
+suitcase
+naked
+to defend
+department (university)
+company; group of friends
+equipment
+peace, quiet
+for some reason
+brave, bold
+to argue
+sport
+successfully
+film
+security
+to release
+discipline
+to breathe
+(coll) splendid(ly), great healthily; (coll) hi!
+depiction
+to put
+fortress; strength
+undoubtedly
+to surround (sth with sth)
+to lower, drop
+excellent(ly)
+approximately
+later (= через)
+construction (adj)
+talent
+to tire
+youth
+to take hold of; start work on; to take up, get down to
+size
+to return
+mirror
+wing
+staircase; ladder
+to define, determine
+next; regular
+overcoat
+cigarette
+dress
+to sort sth out; investigate; understand
+cannon
+receiving
+pleasant
+settlement
+loss
+fire
+angrily
+hearing; rumour
+shell (mil)
+to communicate (sth to s.o.)
+tight
+examination
+good (thing), benefit; (coll) since, seeing that
+marsh
+inside
+to look
+to prepare (for sth)
+motor, engine
+to add (sth to sth)
+to shiver, start shaking
+capitalist
+strong
+musical
+not good
+to declare, announce
+organism
+remainder
+similar (to)
+to cover (sth with sth)
+priest (coll)
+as before
+habit
+agreement
+argument
+line (of text)
+to stretch; stretch os
+increase
+terribly
+harvest
+valuable
+purely, cleanly
+to run around
+to run there and back, run somewhere (and return)
+beard
+elected representative
+announcement; application
+short, briefly
+in vain
+at night
+desire; hunting
+food
+accommodation, premises
+evenly; precisely
+taiga (northern forest)
+telegram
+fat (adj)
+transport
+bull
+to withstand
+to achieve, reach
+to take out
+carrying out
+skin; leather
+smaller
+he/she/they said
+so much
+unexpected
+official
+hunter
+flame
+understanding
+to stretch out
+profession
+construction
+to hurry
+watchman
+to step
+alarm
+to affirm, maintain
+snow-white
+bottle
+to worry
+pressure
+west
+hesitation
+bed
+mechanical
+power (of engine etc.)
+to direct
+present, gift
+genuine
+since, because, in as far as
+conversion
+trade union
+to break, smash
+to dare
+trunk (tree); barrel (gun)
+confidence
+lamp
+supreme
+mutual
+degree (°)
+to admit (s.o. to); assume; allow
+order (for sth)
+initiative
+lecture
+wet
+moral
+experienced
+section, department
+rest; holiday
+absence
+call, appeal; call-up
+productivity
+fifteen
+reaction
+fairy-tale
+to go down (from)
+old woman
+wonderful
+battery; radiator
+stormy
+to order (s.o. to do sth)
+the main thing
+to drive; hunt, persecute, chase
+to guess; (+inf) have the sense to
+to conquer
+peasant cottage
+instrument; tool
+merchant
+ice
+frost
+piece of news
+defence
+liberation
+to smell (of)
+story, novella
+feat, heroic deed
+to say goodbye (to)
+from above; (+g) more than
+to stick out
+to express
+vital; life (adj)
+sign
+tap; crane
+peasant (adj)
+personality; individual
+scale
+measure; function (reception etc.)
+protection; guard
+to devote, dedicate (sth to sth/s.o.)
+presence
+trifle
+spot
+to arrange, set out; ; win over; (+inst) to have available
+birth
+resistance
+to your liking
+terrible
+flag
+tsar’s; tsarist
+detail
+April
+attack
+two
+girl (coll)
+merit, virtue; dignity; value
+European
+if (obs or coll)
+peasantry
+medal
+to change
+about, concerning
+worthless
+norm
+want, need
+department, section
+why
+patriot
+to visit (a place)
+to sign
+crockery, dishes
+fine, excellent(ly)
+propaganda
+machine-gun
+regional, district (adj)
+competition
+coarse, rude
+plot of land; district
+brigade, team
+group, team
+commander
+to fight; to beat
+ruin, destruction
+thick, dense
+unity
+spectator
+for nothing, pointlessly (coll)
+to issue from, proceed from
+youth
+destitute; beggar
+to set off
+to feel
+presidium
+sign, indication
+wild
+instruction, command
+to shine, gleam
+net; network
+to save
+sum
+socialism
+to consist of
+boy, small boy (coll)
+to report (on)
+barely, only just
+female
+to take up
+to change
+artificial
+conference
+bush
+brain
+nation
+uninterrupted
+to embrace
+to turn into (sth)
+samovar
+from above
+whisper
+absolute
+fighter; wrestler
+win
+hot(ly)
+cruel
+deputy, substitute
+cage; cell (biol)
+(it is) unknown
+unknown
+duty, obligation
+desert
+journey, voyage
+to calculate; expect; rely on
+repair; redecoration
+on the left
+harsh
+such [pronoun]
+whisker
+Fascist (adj)
+private, individual (adj)
+champion
+ah (yes), aha
+to arrest
+to look after
+ticket
+everywhere
+magnificent
+excitement, arousal
+to enter, join (organization)
+output; issue
+sin
+dirty
+daughter (intimate form)
+manufacture
+exclusively; exceptionally
+something, a thing or two
+criticism
+inscription
+appeal (to); (c +inst) treatment; circulation
+for that reason
+to swim; sail
+journey, trip
+elderly
+police
+firm, solid
+gun, rifle
+red-haired
+sugar
+office worker, white-collar worker
+on the right
+storm cloud
+organization; mechanism
+in the morning
+noble
+storm, gale
+wine
+to arise
+to drag out, pull out (from)
+giant (adj)
+to complain (about)
+to replace (sth with sth)
+personally
+fine fellow; well done!
+for ever
+to put on (clothing etc.)
+to explain
+to turn
+to produce
+to knock (at)
+expedition
+father
+armed
+shot
+to guarantee
+victim
+quickly; vividly
+animal
+banner
+information
+concert
+bonfire
+extremely
+mechanism
+numerous
+how much; as much
+objective (adj)
+explanation
+coup
+feather
+turn
+behind
+to acquire (formal)
+to listen carefully (to)
+distribution
+parent
+candle
+distinctive, individual
+secret
+warehouse, store
+boring
+in agreement; (as noun) consonant
+to doubt
+composition, essay
+list
+to promote, further (sth)
+to cope (with); (o +pr) ask about
+sphere
+to dance
+to drag
+to calm down
+stage, phase
+clearly, obviously
+actor
+arrest
+to talk, converse (with); have a talk (with)
+existence
+spring (adj)
+taste
+memory, recollection
+to give out, issue; betray; give away
+eminent, prominent [participle used as (adj)]
+to hum; hoot
+booty; mining
+path; track
+to deliver
+sufficient
+cross
+medical
+mechanic
+torment
+flour
+tension
+normal
+November
+sad
+to bring (by transport)
+confession, admission
+to hide (sth)
+daybreak
+today’s
+essential; important
+to respect
+firm, company
+slot-machine; phone box
+letter (of alphabet)
+foolishness
+hunger
+Greek (adj)
+business (adj)
+trust
+valuable
+mental; sincere, heartfelt
+to glance
+which (coll)
+match (game)
+observation
+to open
+difference; distinction
+restructuring
+advantage
+pleasant
+to open wide; reveal
+rarely
+to correspond (to)
+corresponding
+steel
+tail
+extremely
+aggressive
+(main) station
+deaf; indistinct, muffled; remote (of place)
+to lead to, take as far as
+naturally
+curiosity
+immediately
+nowhere
+to turn
+extensive, vast
+responsible
+excellent
+park; depot
+to pay (s.o. for sth)
+to plant, seat
+to lie ahead (of s.o.)
+space, expanse
+trade union (adj)
+decisive
+to make up one's mind (to); to bring os (to); dare, risk; be decided
+market
+continuous
+pole, pillar
+precision; punctuality
+three, threesome
+surprisingly
+sixty
+arena
+look, glance
+to carry in, bring in
+because of, owing to
+to threaten (s.o.)
+further
+satisfied, pleased (with)
+dependence
+anyone
+small sheet (of paper); small leaf, leaflet
+dressed; wearing
+to render, give
+(female) friend
+pillow; cushion
+government; board (of management)
+to disperse, split up
+shirt
+crag, rock face, cliff
+at first (coll)
+justice, fairness
+to be patient; endure
+darkness
+to manage, control
+February
+characteristic (adj)
+hm! (expressing hesitation)
+artiste, performer
+favourable
+to choose
+December
+division (army)
+domestic
+breathing
+dawn; sunset
+bell
+steep; severe
+copper (adj)
+to change; p: (+inst) exchange
+invisible
+pledge
+to look round
+to look back
+medal, decoration; order (society)
+to let go, release
+glasses, spectacles
+to take across; transfer; translate
+perspective; prospect
+to use, employ, apply
+to take a seat, sit down
+to check
+collection (book of poems, stories, articles)
+funny, ridiculous
+(theatre) performance
+fair, just
+comparatively
+theoretical
+to take away; tidy; p: tidy up
+value
+agronomist
+inculcation; putting into practice
+eastern
+to be fit (for), be usable
+pride
+to marry (of man)
+noticeably
+cinema
+fundamental
+butter; oil
+workshop, studio
+meat
+reliable
+to appoint (s.o. as sth); fix, arrange
+offensive, advance
+bride; fiancee
+reverse (adj)
+identical
+relatively; (+g) concerning
+monument
+to interrupt
+to give, present (sth to s.o.)
+approach
+landowner
+appearance
+profit
+family (adj)
+to hear (about) (coll)
+to be heard
+to compose, make up
+talented
+technology
+quietly (coll)
+cloth
+sense, point; understanding
+melancholy, depression, ennui; (по +d) yearning (for)
+factor
+to guffaw, laugh loudly
+agent
+pool, swimming-pool; basin (geog)
+variant
+outside
+choice
+rumble
+fence
+rear (adj)
+continent
+kopeck
+slogan
+unintentionally
+tender, gentle
+imperceptibly
+unhappy
+oil, petroleum
+to take away
+to retreat; deviate (from)
+passenger
+underwater (adj)
+stopping, ending
+to accompany, see off
+slave
+rose
+small hand; handle; pen
+signal
+to hide, conceal
+to accomplish, complete
+small table, restaurant table
+knock
+to trade (in)
+ceremonial; celebratory
+fantastic
+brightly
+endlessly
+literally
+advantageous
+general (adj)
+grandiose
+mud; dirt
+to reach, get to
+post, job
+to take fright (at)
+July
+bunk, berth
+suit; costume
+affectionately
+elbow
+curious
+to bore
+the management, the authorities
+to need, be in need of
+clothes
+small window
+specially; separately
+departure
+practically
+to stop, discontinue
+progressive
+to continue
+to pronounce
+to work out, devise, develop, design, cultivate
+reason, intellect
+pink; rosy
+glorious
+comical(ly)
+photo
+hat (with brim)
+thing (coll)
+automatic
+actively
+to run in
+to transport; (+d) be lucky
+branch
+harmful
+to jump in; leap up
+to lead out; remove
+crash; rumble
+decade
+worthy
+bad, evil
+gesture
+occupied, busy
+to note down
+exception
+icy
+ribbon, tape
+to wave
+fly
+quietly, in a low voice
+immediate, direct, spontaneous
+to take offence
+obliged
+October (adj)
+to howl, yell
+to evaluate, appreciate
+tribe
+to swallow, absorb
+to prepare
+in detail
+ceiling
+to be conducted, take place
+damned
+break, gap; shell-burst
+spreading, dissemination
+independent
+to take shape; club together
+ally
+passion
+tank (mil)
+plate
+fuel
+three hundred
+to convince; persuade
+surprise
+comfortable; convenient
+hill
+quarter
+undoubtedly
+hospital
+delight
+to carry out, take away; endure
+to jump out (of)
+throat
+real, actual; valid
+income
+to be thought
+conclusion; confinement
+publication; edition
+to learn, master
+final
+basket
+to feed
+to deprive (s.o. of sth)
+masculine; male
+continuously
+discussion
+to dress (s.o.); (coll) put on
+stick
+change
+ground, area
+victor
+to confirm
+briefcase
+friend
+away
+permission; solution
+priest
+September
+perfect
+to thrust, poke (sth into sth)
+rear (military)
+to increase (sth)
+hurrah, hurray
+imagination
+why (coll)
+piece of paper; banknote
+billow; rampart; gross output (econ)
+guilt
+agitation; disturbance
+Sunday
+subsequently
+to clarify, establish
+to glance (at)
+hotel
+to move
+one ought to
+probably
+to fight; have a fight with
+to commit to memory, memorize
+link
+publishing house
+intelligentsia; professional people
+command
+serf
+logic
+violence, force
+to advance; begin; tread on; come (of time, seasons)
+heavenly, celestial
+independent
+light
+to liberate, free
+leave (from work)
+negotiations
+jacket
+compact; solid
+to support
+shelf
+outside, not directly involved; outsider
+poetic
+crime
+to vanish, be lost, p: go missing
+scope, range, scale
+early
+expenditure
+journey (of vehicle)
+deciding, decisive
+series
+steel (adj)
+toiler, worker
+entirely
+August
+aerodrome, airfield
+useless
+innumerable
+pale
+at first
+below
+thoughtfully, pensively
+motive; motif
+to pour out, fill
+attack
+to make for, head for
+tense
+untruth; untrue
+nowhere
+to deceive
+solitary
+autumn (adj)
+to found
+to put aside; postpone
+late
+strip
+action, act
+jetty, pier, wharf
+to unfold; develop; expand
+to take to pieces; make out, sort out, understand
+wounded
+fast
+to concentrate (sth on sth)
+employee, official
+century
+to suffer
+(it’s) dark
+to be surprised (at)
+teacher (f)
+financial
+teapot; kettle
+screen
+colourless
+biography
+shine
+God’s
+pain
+verst (slightly over a kilometre)
+imagination
+yesterday’s
+threatening
+cottage
+sunset
+mark, (written) note
+block (of buildings); quarter of year
+doll
+summer (adj)
+to catch
+model (of sth)
+called
+deliberately
+end, ending
+not at all
+(gramophone) record; flat piece of metal or other material
+to sail; swim
+to pick up; select
+apart from
+subsequent, following
+to kiss
+to convert, turn (into)
+bullet
+play (theatre)
+shirt
+to manage, supervise
+to sparkle
+silver (adj)
+to obey
+grade, quality
+salvation, rescue
+style
+stimulus
+to be built
+mad
+that’s it, that’s right
+to threaten (s.o.)
+ability
+fantastic, fantasy
+reading
+top
+to include; switch on
+sudden
+aloud
+proud
+bitter
+domination, supremacy
+delegate
+cheap
+lengthy
+to catch up (with)
+natural
+hare
+if (coll)
+bark, rind, crust
+to fly around
+pilot, airman
+meadow
+moment
+opposite; on the contrary
+unfamiliar
+nerve
+to publish
+to rest; have/take a holiday
+assessment
+poetry
+preceding
+to greet
+to be used; (к +d) adapt os (to)
+destruction
+resource
+to swear
+(politically, socially) conscious; deliberate
+to compare (sth with sth)
+satisfaction
+annihilation, destruction
+hey! (attracting attention)
+aggressor
+mad; furious
+to mumble
+in the distance
+bucket
+world, worldwide
+to tear oneself away
+to express
+exhibition
+day (adj)
+argument (for sth)
+to wait (for)
+proof
+railway (adj)
+to marry a husband
+scheme, idea
+zone
+player
+exceptional
+June
+king
+bench; small shop
+human (adj)
+to inflict (sth on s.o.), pile up
+insistently
+awkwardly
+securing, providing, provision (with)
+exchange
+to make os understood; be explained; explain os
+surrounding
+to justify; acquit
+to free os; become free
+refusal
+frankly
+to respond to; affect; (o +pr) express a view of; give an opinion of
+detail
+to rely (on)
+bedding, bed
+to exceed
+customary
+to invite
+province; provinces
+to take a walk
+difference
+to wound, injure
+slope
+preservation
+tightly; crowded
+exercise book
+axe
+to touch
+thoroughly
+gloomily
+persistent
+cupboard
+chink, fissure, slot
+south
+Japanese (adj)
+balcony
+wineglass
+to wander
+on time
+to worry, excite, disturb (s.o.)
+seriously
+entrance
+coffin
+girl (coll)
+functioning
+delegation
+tenth
+noticeable
+in advance
+defender
+ringing
+to carry out, fulfil;  perform
+any
+candidate
+brick
+short
+heap
+leader
+spoon
+to admire
+past
+to the right
+impossible
+hate
+thread
+the public
+final
+to reflect; repulse
+despair
+willingly
+Easter
+written; writing (adj)
+seemingly
+to finish (with), do away with
+post office; post, mail
+bonus; prize
+obstacle
+to summon, appeal
+natural
+origin
+to penetrate (sth)
+level; even, equal
+pride, self-esteem
+to shine
+evidence; certificate
+to be accomplished
+essence
+conviction, belief
+to hold back, retain; hold onto; restrain
+to value
+grateful
+to educate, bring up
+to blaze up, flare up
+thirdly
+to expel, drive out
+to stretch out
+genius
+heroic
+to earn
+to wish, desire; deign
+to interest
+look (drawing attention to sth) (coll)
+classical
+climate
+march
+bear
+gloomy, baleful
+to fill
+recent
+inevitably
+motionless
+illumination
+shade, nuance
+file, folder
+to raise
+to be necessary
+to get down to, start on
+continuation
+manifestation, display
+public
+to wake, rouse
+difference
+grating, grille, railings
+pig
+to whistle
+modest
+slightly
+fatal; mortal
+lowering
+combination
+rag
+philosophical
+kingdom
+floor, storey
+bank (for money)
+to shine
+old man, mate (form of address)
+greatness
+hungry
+loud
+twice
+annually
+spare, reserve
+recording; written record
+to fill sth, cover sth with sth
+acquaintance (with), knowledge (of)
+to choose, elect; select
+occasionally
+property, possessions
+bone
+manner
+misfortune
+(it’s) not difficult
+orchestra
+distant, remote
+frank
+to make a mistake
+many-coloured, motley
+to hang
+to accommodate, place
+supposition
+to warn (s.o. about sth), tell in advance
+to reside; (p) live for a specified period
+five hundred
+equality
+to reason; (o +pr) discuss
+from behind
+Siberian (adj)
+tablecloth
+quietly
+consideration, reason
+specially
+arrow
+jet, stream
+knot; junction; bundle
+slight smile; sneer; smirk
+successful
+educational
+apple
+thoroughly; tidily
+disaster
+near
+social, everyday
+introduction
+to possess; have command of; to master
+to grow
+to go out, be extinguished, fade
+data; qualities
+girl
+diary
+friendly
+manager, head (of)
+researcher
+true
+picture, illustration
+ever; some day
+plait; scythe
+cat (f)
+crisis
+small piece
+police
+lightning
+mouse
+intention
+nature, character
+to finish; graduate (from)
+report
+to turn round
+raised
+politician
+respected
+to overcome
+to sell
+passer-by
+to jump
+to frighten
+dusty
+Russian (of Russia)
+to abuse, scold
+wedding
+sweet
+machine, machine tool
+boredom
+snow (adj), snowy
+reduction; abbreviation
+soldier’s
+Saturday
+mysterious
+to push, shove
+damage
+cunning
+honestly
+bureaucrat; official
+trousers
+snackbar
+speed
+to force, compel
+exit (adj)
+to worry about, concern os with, look after; take care of
+to envy
+to start smoking, light up (cigarette etc.)
+foreign
+empire
+to test; experience
+chamber, room, cell
+category
+collective farmer
+collective farm (adj)
+lie, lies
+favour
+coin
+to rush
+thinking
+probably (coll)
+to be determined, be defined
+maw, jaws (of animal)
+suitable
+to press, squeeze
+to congratulate (s.o. on sth)
+across
+to entrust sth to s.o.
+to press, clasp (sth to sth)
+disgusting(ly)
+to display, manifest
+slavery
+joyfully
+to cut
+centimetre
+above
+witness
+grey (of hair)
+cattle
+to hide os, vanish
+damp; raw
+tactics
+telephone (adj)
+to flow; begin to flow
+leak
+cul-de-sac, dead-end
+confidently
+to smile slightly, give a short laugh
+assertion; confirmation
+to bang, slap, clap
+cold
+to whisper
+effect
+oh! (expressing fear, surprise)
+linen
+birch
+bearded
+leading; (as noun) presenter (of programme)
+official visit
+indignation
+to object (to)
+to exclaim
+to stand out (from)
+to fall out (of)
+anywhere
+pot
+thunderstorm
+sad
+to reach (sounds etc.)
+unit
+greedy
+to take hold of; take away
+to set, assign (sth to s.o.)
+to be delayed
+to put behind; lay down, found; (+inst) block (with); pawn, mortgage
+curtain
+to lock
+to publish; emit
+fearfully
+what, what kind of
+amateur; lover (of sth)
+furniture
+slow
+well-dressed
+inevitable
+to hate
+to discuss
+to lean on
+to illuminate
+to turn away (from)
+to deny
+translation; transfer
+payment
+to undergo, be subjected to
+to raise (coll)
+lots (of) (coll)
+that’s enough; full
+positive
+to be caught; turn up
+to pursue; persecute
+the press
+prosecutor
+spacious
+to resound
+elaboration, working out; design; mining
+sensible
+frame
+expansion
+sparkling
+seventeen
+in short
+to pile up, put together; fold up; add up; put down
+to tear off; wreck
+tobacco
+present (adj) (coll)
+corner, nook
+calculation; stock-taking; registration
+background
+fund; stock
+pound (money or weight)
+dressing-gown; overall, white coat
+fourteen
+power station
+African (adj)
+landowner, barin; gentleman
+young lady
+bigger
+double
+branch
+owner
+wolf
+to invent, fabricate, make up
+to win
+to become clear
+anger
+long-ago (adj)
+money (adj), monetary
+to get, obtain
+fight, brawl
+belly, stomach
+regularity, law
+service, merit, achievement
+from a distance
+illusion
+to rock, shake, swing
+square (adj)
+beautiful woman
+tender, affectionate
+mineral (adj)
+softly
+not far
+look, appearance, image
+fragment
+blanket
+to lower os, sink
+splinter
+to carry out, accomplish, execute
+to die (coll)
+defeat
+festive
+to give, grant (sth to s.o.)
+to let through; omit, miss
+intelligence service; reconnaissance
+to spread
+boundary
+shed
+to shine
+to advise (s.o.)
+contemporary
+juice
+to realize, work out, think out, understand
+to accompany
+to be preserved
+structure
+step, rung; stage, level, grade
+shame
+secret (adj)
+oppressed
+to fall asleep
+morning (adj)
+philosopher
+coldly; it’s cold
+auditorium
+bazaar, market
+bronze (adj)
+to roll; lie about
+rope; string
+anxious, agitated
+temporary
+to throw out
+stupidly
+valley
+additional
+to blow
+pitiful
+to set fire to
+to fall asleep
+to find (a person)
+to greet
+piece of news
+sincere
+kilogram
+rat
+trifle, minor matter; small change (coins)
+youth (adj)
+to wash
+insufficient(ly); (+g) not enough
+few (people)
+unpleasant
+kitchen-garden (for vegetables)
+to describe
+to cut off
+to seize, envelop
+film, (recording) tape
+underground (adj)
+to show os, be shown
+at times, occasionally
+decent, respectable
+to screen, shelter (sth with sth)
+to place in contact with; apply; add, attach (to)
+to separate; dissolve
+to examine closely
+small wood, copse
+chance (adj), fortuitous
+boldly
+with embarrassment
+to be created; arise
+to keep, preserve
+to go down, descend
+twilight, dusk
+weight, burden
+to increase
+Fascism
+car, vehicle
+merciless
+marriage; (no pl) defective product(s), reject(s)
+brochure
+mound
+eternally, always
+to transport (around/there and back)
+right up to
+to pick out; allot, assign
+to leave (by transport)
+to wipe, wipe dry
+newspaper (adj)
+to vote (for/against)
+oak
+complaint (about)
+to fall ill
+to take somewhere; start, start up; wind up
+closed
+to roll
+book (adj); bookish
+to twist
+skilfully, deftly
+spade
+tape-recorder
+skill, craftsmanship
+courage
+above; upstairs
+reward
+equally, alongside
+unusual
+sheep
+to take (somewhere)
+fall
+to lead up; (coll) let (s.o.) down
+to suspect
+indeed
+calm; late, deceased
+to visit (a place)
+resolution, decree
+sweat
+stay
+preliminary; prior
+to prepare
+fixedly
+extent; expanse
+variety
+to examine; make out
+to tear
+religion
+relative
+to knock down; confuse; whip, whisk; distract, beat
+to roll (up); turn
+to take (s.o. somewhere); bring together; (c +g) take down, away
+bench
+improvement
+treasure
+completely
+judge; referee
+existing
+thickness
+to see (coll)
+supper
+country estate
+to keep, store
+cup
+nonsense
+obvious, overt
+log, beam
+to be visible
+contribution
+to restore, reconstruct; (+a против +g) set s.o. against s.o.
+temporarily
+summons; challenge
+to climb out (of)
+yearly
+readiness
+accessible
+hotly; it’s hot
+to think up; plan
+official request
+from a distance
+to be interested in
+frame; cadre
+staff, personnel
+which (official style)
+to nod
+Chinese
+fodder
+beautifully, attractively
+bloody
+lid
+to eat
+to drink one’s fill; get drunk
+violation, offence
+(it’s) not easy
+to rush
+thread
+to spend the night
+moral
+united
+outskirts
+description
+stop
+obvious
+essay, study
+cartridge
+pension
+captivity
+flat
+tightly
+cellar, basement
+to underline; emphasize
+to rise; climb (coll)
+to eat a little
+half a year
+to carry
+to get down, start work on
+inherent (in)
+besides, in addition
+to lose (game etc)
+professional (adj)
+in bewilderment
+advertisement
+leading, guiding
+to burn
+bench
+boring
+from below
+interlocutor, the person one is talking to
+cathedral
+back (of chair etc.)
+to hide
+to knock, bang
+hastily
+to alarm; disturb
+killed
+thin; bad
+extreme; exceptional
+to step, stride; to take a step
+effectiveness; efficiency
+allegedly
+rage
+avenue
+bath-house
+agitation, anxiety
+disorder, mess
+near
+greyish-brown
+to topple; heap up
+conducting, conduct
+authority, control
+majestic
+to decide suddenly (coll)
+interference (in)
+water (adj)
+return
+mushroom
+goose
+ninth
+food
+cruelly
+animal (adj)
+strike (by workers)
+castle
+lock
+back of the head
+ideal
+carpet
+colossal
+somewhere
+power, might
+naive
+to the left
+unknown
+uncomfortably, awkwardly; it’s awkward
+deceit, deception
+to manage; treat; turn out
+to oblige s.o. to do sth
+to obtain, gain
+assimilation, mastery
+singing
+to live through; experience; outlive; suffer
+to print
+on foot
+planning
+cook
+to do (coll)
+knowledge, cognition
+flight
+consequence
+approximately
+to come in useful
+to drive away; banish, throw out
+education; enlightenment
+stability, solidity, durability
+to show itself, be revealed
+desert (adj), deserted
+wound
+to question
+ordinary, rank and file; (as noun) private soldier
+to show, be evidence (of)
+blind
+tractor
+staff (mil); HQ
+side (of a ship)
+section of factory, shop
+kind, type, breed; rock (geological)
+Germanic
+organ (biol, political)
+organ (musical instrument)
+laboratory
+Cossack
+metal
+piece of apparatus, gadget, instrument
+treatment, processing
+visible, evident
+exploitation
+column
+fisherman
+production (adj)
+police (adj); (adj used as noun) policeman
+conquest
+brigade leader; foreman
+index, indicator
+hour (adj); watch, clock (adj); (as noun) sentry
+listener
+audible
+urgently
+quarrel
+stage (of development)
+collision, clash
+step
+vessel, craft
+to get lost; lose one’s head
+enthusiasm; hobby
+with surprise
+mental, intellectual
+to take into account; to take into consideration, bear in mind
+someone’s
+pit, hole
+running; race
+to worry (s.o.)
+immortal
+merriment
+to blow up
+shop-window; showcase
+granddaughter
+to instil, inspire (sth in s.o.), put sth in s.o.’s head
+to arouse
+warrior
+to be proud of
+bitter(ly)
+sad(ly)
+thickly; densely
+to fall to s.o.’s lot; (coll) catch it (be punished)
+idiot, stupid woman
+every day
+to end; finish
+invention
+disaster
+to sway; hesitate
+(light) bulb
+legend
+flying
+haze, gloom
+younger; junior
+to think
+to cover; lay
+not bad(ly)
+zero
+note (music, diplomatic)
+sheet music
+abundant
+to turn round; turn out
+of the fatherland; Russian
+fatherland
+to lag behind
+sensation, feeling
+memorable
+dad
+patriotic
+front (adj)
+break, interval
+to be repeated
+probably (coll)
+scoundrel
+to pick up, take up
+to become red; blush, turn red
+to strike; astonish; rout
+to suppose
+to impart, give (sth to sth)
+arrival
+to make one’s way through, force one’s way
+protest
+to be glad (at), be pleased (about)
+glad, joyful
+many-coloured
+to execute (by shooting)
+editor
+to chop
+to hand in, hand over; rent, let; surrender, give up; i: take (exam); p: to pass (exam)
+consequence; investigation
+to be embarrassed
+to lower; release
+drily
+television (medium)
+television (adj)
+anxiously
+heavy, serious
+to carry away; fascinate, distract
+comfortably; conveniently; it’s convenient
+departure; (за +inst) caring (for), maintenance (of)
+church (adj)
+eccentric person, crank
+copy (of book etc.)
+young
+anxious, agitated
+binoculars
+top; (coll) the bosses
+interrelation
+eighty
+to cut into
+advantage
+to produce; work out
+to stroke; iron
+small town
+hooter, car horn; hooting
+to reach agreement (with)
+annoyance
+devil
+hot
+forgotten
+mystery; riddle
+pollution
+spark
+sincerely
+fulfilment; performance
+to throw
+colleague
+anywhere
+to be reconciled with
+prayer
+taciturn
+monk
+to be observed
+upwards
+to bend down, stoop, bend over
+to plan
+to insist, get one’s own way
+to come (of seasons etc.)
+service
+to unite, combine
+identically
+eleven
+to be afraid of
+organizer
+to cast looks at
+towel
+to work, work for a while
+astonishing
+building
+criminal
+greeting
+to be present
+sale
+indifferent (to)
+to part (with/from)
+growing
+to tear, burst; want strongly (to do sth)
+to sow
+weakness
+to unite
+then (adj)
+tidying up; harvest
+to assure
+to guess
+successful
+to improve
+to confirm
+study, studying
+to characterize
+owner’s; boss’s
+skin, hide
+fur coat
+car (adj)
+tower
+quick, fleeting
+unemployment
+closeness
+together (as a twosome)
+in exchange (for), instead (of)
+to burst in
+to get out
+to move out; put forward
+to fly out, take off
+to pull out
+nail
+openness
+nest
+lorry, truck
+duty (adj); (as noun) person on duty
+dearly
+in harmony, simultaneously
+heat, hot weather
+local, from here
+to depict
+frightened
+belonging to the State
+somehow; anyhow; sometime (in the future)
+potatoes (coll)
+squint
+(short) jacket
+to lie, tell lies, tell a lie
+postage stamp; brand, trade mark
+to wave
+political meeting
+raid; thin coating
+presence
+a certain
+not far away
+unpleasantness
+accusation
+to accuse (s.o. of sth)
+turn, revolution; turnover; reverse (of page etc.); turn of phrase
+to serve (s.o.)
+custom
+compulsory
+oho!
+reflection
+signature
+to count up, calculate
+to subordinate, subject (s.o. to s.o. or sth)
+to abandon
+half an hour
+to correct, put right
+visitor
+to undertake
+to add
+verdict, sentence
+to divide; separate; share
+to burst out laughing
+reasoning, argument
+restaurant
+to drop; throw off
+swine, bastard (coll)
+audible, audibly
+joint, combined
+to unite, join
+accordance
+speciality; profession
+urgent
+old age
+swiftly; impetuously
+harmonious; well-proportioned
+diagram
+happily
+traditional
+millennium
+respected
+criminal (adj)
+to satisfy; (+d) be in accordance with
+to yield, give up, cede (sth to s.o.)
+description; reference (for job etc.)
+width
+ugliness; scandal
+disorderly
+well-being
+British (adj)
+paper (adj)
+importance
+close by
+to gaze at, study, look closely at, peer at
+centuries-old
+to see one another, see each other
+restoration
+to hand, hand over
+all-round; thorough
+thunder
+friendly
+thought; duma (Russian parliament)
+thirst
+to get, climb (into/onto)
+institution
+to delay; arrest
+legal
+expense
+to avoid
+to apologize (to)
+to rock, swing
+to boil, be boiling
+slander
+box
+medicine
+moment
+to pass, pass by
+snout, muzzle; (coll) face
+turbid, clouded
+to disturb, violate, break, infringe
+unprecedented; (coll) inexperienced
+there is nowhere
+considerable
+incorrectly
+incorrect
+poverty
+to be
+hostel
+definition
+orator, speaker
+careful, cautious
+to be reflected
+to guard
+hearth
+to transfer, carry over; postpone
+everywhere
+underground (adj)
+midday
+to tear; break off
+commission, errand
+in the middle (of)
+to be necessary, be needed
+forthcoming, imminent
+to attract
+to fall through; (coll) fail (exam); (coll) vanish
+incident, occurrence
+(it’s) empty; emptily
+emptiness
+determination, resoluteness
+to give birth
+freely
+holy, sacred
+bravery, courage
+text
+goods (adj)
+tourist; hiker
+murder
+loss
+to lay (down); pack, stack
+exercise
+civilization
+rank
+to stir
+bus
+indisputably
+fearless
+gratitude
+trousers
+leader
+flash
+to flow out
+smooth
+coarsely
+to press, put pressure on
+twentieth
+to be divided (into)
+(indicating reported speech) ‘he said’, ‘they said’ etc. (coll)
+rubbish (coll)
+breakfast
+remark
+greenery
+clear, graphic
+load; workload
+necessity, need
+not (for) long
+inaccessible
+independently
+unclear
+zero
+limited
+to examine; look round (sth), inspect
+to reject
+beer
+coast
+a little further (coll)
+to crawl
+to run to; resort to
+disgusting
+fluffy, downy
+luxuriant
+broken
+from the side
+to fall down
+liking (for s.o.)
+fairy-tale (adj)
+weakly
+sweetly
+justly, fairly; correctly
+to collide with
+supporter
+typical
+to sink; drown
+tram, streetcar
+pavement, sidewalk
+to be keen on
+to lead away
+chorus; choir
+four, foursome
+cleanliness; purity
+barefoot
+to twirl
+to ascend
+to interfere (in)
+free
+collar
+invention; fabrication, lie
+to hear (s.o.) out
+to display, put forward
+sadness
+to be given; come easily (to s.o.), be learnt easily
+date
+diplomat; attaché-case
+only
+to squeeze; to harvest
+petty thief; cheat
+tomorrow’s
+to ring; (+inst) jingle
+toy
+to set out, expound, put in words
+to correct
+café
+kasha (porridge made of buckwheat, semolina or oatmeal)
+collective
+office
+route
+power, might
+to make; (coll) to do
+outside
+unprecedented
+low, short
+insufficient
+insignificant
+unusual
+motionlessly, still
+nervous
+not in the least (coll)
+leg; stem (of wineglass, mushroom)
+to lighten; simplify; make easier
+to tear off; interrupt
+to process, work on
+footwear
+waiting; expectation
+support
+separately
+to take away; select
+to be torn off, break away
+negative
+desperate
+to find oneself
+song
+a bit more
+to stay for a while
+to prompt, suggest
+to consult (s.o.)
+claim
+to drive through or past
+to develop
+to destroy, ruin
+examination, scrutiny
+to roar, howl
+to recommend
+risk
+manuscript
+hand (adj); tame
+frame
+to surrender, give up
+hidden
+agreement
+to meet; form a liaison with; agree
+sun (dim)
+suffering
+similarity
+replete, full
+convincingly, earnestly
+murderer
+to stand firm; restrain os
+to strengthen
+to carry away
+stubbornly
+service, favour
+temple, church
+frequent
+egg
+dish, course (of meal)
+probability
+breeze
+labouring  (participle)
+melody
+boarding (of plane etc.); landing; planting
+fat, lard
+to make arrangements; settle down; get a job; work out well
+chemistry
+to howl
+independence
+(little) old man
+tendency
+stagnation
+jubilee, anniversary
+administrative
+glove (with fingers)
+meditation, thought
+Bolshevik
+economic
+chemical
+table (of figures)
+Fascist
+forest (adj); forestry (adj)
+metallic
+reserve
+rifle
+atom
+construction
+state farm, sovkhoz
+organic
+matter
+foundation
+small part; particle
+technical drawing
+construction
+raw material(s)
+Guards
+packet; bag (paper or plastic)
+pistol
+socialist
+detachment (organized group of soldiers or workers)
+deck (of a ship)
+artillery
+union, association
+nuclear
+bourgeois
+partisan
+technological
+physics
+scientific-research (adj)
+geologist
+firewood
+Italian (adj)
+dictatorship
+machine (adj)
+secret agent; scout, prospector
+academic
+to refuse (s.o. sth)
+net; string-bag
+to be replaced
+ashamed
+straw
+rival
+such
+telegraph
+formation
+legal, law (adj)
+jar, can
+aviation
+topical
+aristocracy
+barge
+battalion
+head
+bogatyr, hero
+(low) boot
+small wagon, coach
+interval; space, gap
+concrete
+burning (adj)
+diploma, degree
+constitution
+foliage
+copper (noun)
+there isn’t/aren’t (= нет) (coll)
+usually
+wire
+traveller
+function
+agency
+avenue
+gas (adj)
+publisher
+if (coll)
+button, knob; drawing-pin
+hen
+twig, sprig
+interaction
+anxiously
+sigh
+damp
+to fiddle (with)
+to take aside
+close up (to)
+to look closely at
+in every way possible
+small eye; peephole
+small head
+gram(me)
+border, verge; facet, edge
+gift
+diplomatic
+distance
+to trust (s.o.); (+a +d) entrust (sth to s.o.)
+(of the river) Don
+drama
+fiancé
+dwelling (adj), residential
+to wrap; (за +а) turn (a corner)
+(as noun) prisoner, convict
+to merit, achieve by merit, deserve
+to tighten
+small star; asterisk
+ideological
+industry
+instructions
+career
+prince
+scoop, ladle
+commander’s
+competition
+tomcat
+to liquidate
+metro, underground
+marble
+manly, courageous
+for sure; safely, without taking risks
+for a long time
+mockingly, sarcastically
+embankment
+initial, primary
+depths, bowels (of the earth)
+(it’s) unpleasant; unpleasantly
+nurse
+teaching (of sth); training (in sth)
+to go round; avoid
+to be late (for)
+irrigation (adj)
+to distinguish
+passport
+packet, pack
+ploughed field
+dog (coll)
+planned, planning
+flatness; plane (surface)
+in your opinion; as you want
+chin
+cart
+to bow
+transverse
+popular
+consistently
+to chuckle
+to envisage, stipulate, foresee
+transformation; reform
+to protest (against)
+opposite; contrary
+radio station
+division
+to ponder (on)
+paradise
+to broaden, expand
+rarity
+relatives
+brook, stream
+to reduce (to)
+silver
+to have an effect (на +pr) on; proclaim oneself
+metal worker, fitter
+to replace, change
+to appear in a dream, see in a dream
+internal exile (inside Russia)
+vicinity
+pine-tree
+to be shy
+judicial, legal
+celebration; triumph
+oppression
+to persuade, urge
+pattern
+Ukrainian
+unique
+to fix one’s gaze (on), stare (at)
+stable
+total number, quantity
+(small) ball
+experiment
+power, energy (adj)
+such (= такой) (coll)
+Japanese man
+to weigh (intrans)
+liquid; thin, feeble
+mother (coll)
+ceremonial; main
+construction
+brigand
+children, kids (coll)
+statue
+tractor (adj)
+Asian (adj)
+ensemble
+twin
+possession, ownership
+farmer, peasant farmer
+eyebrow; brow
+ruling (adj)
+arrangement; location; liking; inclination
+rail
+reform
+river (adj)
+steering-wheel; helm
+steppe (adj)
+sonny (form of address)
+warmth
+friction
+tundra (treeless northern wastes)
+establishment
+linguistic
+brightness
+barn; storehouse
+postgraduate (noun)
+women’s (coll; sexist)
+barren; fruitless
+to grumble; growl
+diameter
+pre-revolutionary
+hard labour, penal servitude
+compass
+healing, treatment
+scoundrel (coll)
+embankment; sea-front
+accumulation
+to inspect, look over
+paradox
+to see (coll)
+to raise slightly
+ruin, devastation
+executive committee
+balance (econ)
+glass (adj)
+sergeant-major; leader
+colonel
+clay
+productive
+grammar school, high school
+button
+combine, industrial complex
+trunk, chest
+mill
+tractor driver
+bouquet
+trench
+season
+locomotive, steam engine
+anniversary (adj)
+axis; axle
+arrested, person arrested
+felt boot
+stock-raising
+shooting
+working-out; production
+race
+factory (adj)
+servants
+discharge; category
+widow
+consistent; successive
+psychological
+pood (16.38 kg)
+cylinder; top hat
+Frenchman
+lieutenant
+unit, assembly
+gate, garden gate
+opening, aperture
+plenary session
+complex, consisting of several parts
+engine-driver
+mother (coll)
+lunar
+order, command
+well-being, prosperity
+complex
+company (of soldiers)
+oblast (adj), provincial
+officer’s
+new year (adj)
+department (of government)
+composer
+constructor, designer
+(upright) piano
+sparrow
+poster
+cork; plug; fuse; traffic jam
+to be produced
+safely, well
+qualitative; good quality
+(outer) space
+bundle; bun (hairdo)
+cost, cost price
+decomposition, disintegration
+revolver
+electric current
+farm
+mine, pit
+outer, external
+brotherhood
+division
+liquidation, elimination
+to manufacture
+swimming; sailing
+entrance hall (of peasant hut)
+senator
+primary
+sabre; (pl) draughts, checkers (board game)
+cover, envelope
+shoulder-strap
+sowing
+supply, supplying
+ruling, predominant
+(as noun) commander (of)
+Polish (adj)
+pear
+vein
+herd
+lady
+water (adj), aquatic, water-powered
+idiot
+member of intelligentsia; professional; intellectual
+cemetery
+to bend down
+to load
+to immerse
+mixture
+street (adj)
+henceforth, in future
+package, bundle
+to be maintained; be contained
+balance, equilibrium
+peasant house
+carriage; crew
+ravine, gully
+peaked cap
+bay
+goat
+anchor
+combine harvester
+sledge
+emperor
+polar
+(grand) piano
+agriculture
+due, proper
+sandy
+infantry
+bay
+voucher for travel and accommodation
+uniting, strengthening
+final-year student; graduate; school-leaver
+mechanization
+mechanization expert; machine servicer
+(military) hospital
+congress
+felling; chopping; deck cabin
+cucumber
+ambassador
+veteran
+military
+powder
+fertilizer; fertilizing
+apparatus
+dad, father (coll)
+lad (coll)
+decree
+dam
+to say
+rank
+madness
+immortality
+100 kilogrammes, centner
+ideology
+nucleus; ball
+nourishing
+stern (of ship)
+colouring
+architecture
+visual
+tournament
+mooring
+to spend
+gale
+back (of bookbinding); small root; counterfoil; (coll) pal, mate
+mine, shell (mil)
+wineglass
+hook
+chemist
+vase
+foetus; embryo
+collaboration
+liquid
+physicist
+sportsman
+architectural
+cover, shroud
+collection
+peace-loving
+captive
+motor-vessel, motor-ship
+diamond (adj)
+cosmos, space
+high-speed, express
+automation
+volcano
+higher, above
+elder
+admiral
+cooling
+socialist
+minus; disadvantage
+vision
+skis
+collapsible, prefabricated; mixed, combined (team)
+oxygen
+cave
+universal, of all mankind
+cabin (ship)
+bubble; phial
+plain
+girls (coll)
+prolonged
+reservoir
+influence, pressure
+reserve, nature-reserve
+championship
+angry
+sheepskin coat
+activity
+to analyse
+to applaud (s.o. or sth)
+assortment
+drum
+side (adj)
+to shake, stir; (coll) chatter
+to boil, cook by boiling
+to influence
+in love (with)
+attentive, considerate (to)
+driver
+to lead, (p) to lead about
+to return
+growing, increasing
+in an undertone
+to express os; (coll) swear
+sinful
+dacha, holiday cottage
+double, twofold
+disk; discus
+by day; in the afternoon
+volunteer
+guess, conjecture
+interrogation
+wood (adj)
+painting, paintings
+to complete
+tempting
+thicket
+charge, cartridge
+healthcare, health service
+execution
+main, most important
+potatoes
+brick (adj)
+treasure
+computer
+horse (adj), equestrian
+brown
+cupola
+small shop; small bench
+harmony, tune; manner
+to treat, cure
+millimetre
+baby
+hint, allusion
+to sing; sing quietly, hum
+through
+carelessly
+inevitability
+difficult; heavy
+absurd
+exceptional
+surprise
+not bad
+impatiently
+oil (adj)
+to offend, hurt
+to be revealed
+precipice
+loneliness, solitude
+to approve
+dangerously
+opera
+to knock over, overturn
+irrigation
+to throw off; discard
+slope
+hunting (adj)
+chamber; ward
+executioner
+small stick, baton
+Parisian
+landscape
+overload
+binding
+to subject (s.o. to sth)
+in succession; contract
+wish
+dead person, the deceased
+in different ways
+in one’s own way
+consumer
+initiative
+to approach; draw near
+to confess
+of principle, fundamental
+wire
+searchlight; floodlight
+simplicity
+solidly
+past (adj)
+bubble
+crushing defeat; devastation
+to expose, unmask
+at once, at one go; in a flash (coll)
+to tear up
+to spread
+absent-minded
+belt
+timidly
+whistling
+characteristic (of)
+to hold back, restrain, keep (promise)
+sowing
+scandal
+to break
+chance, chance occurrence
+dog’s
+adviser
+according to
+to shorten; reduce
+solid, sound; reliable
+calmness
+battle
+stadium
+figure (human); camp
+firmness, steadfastness
+rapid; dynamic
+to conceal
+to drag
+Tatar
+to have supper
+to use
+strengthening
+to remove
+(expressing disgust) ugh!
+monstrous
+(+d) alien (to); (+g) devoid (of)
+highway
+noisy
+era
+effective
+clarity
+lawyer
+(political) activist
+architect
+ball (dance)
+the poor
+notepad
+to fall
+in view of
+eyelid
+in spring
+coat hanger
+to start, flinch, shudder
+grandson
+in spite of
+thief
+collar; winch
+just about to, on the point of
+to have a right to
+to be remembered
+oncoming
+to grow (sth), rear, cultivate
+indistinctly
+to dominate
+comb, crest
+distance
+caretaker, janitor; (coll) windscreen wiper
+village, country (adj)
+to last
+pity
+harsh
+delusion
+mysterious
+plot
+to catch fire
+thoughtful
+to climb, get (into/onto)
+together; (coll) at the same time
+to fill in, fill up
+earnings
+deserved; distinguished
+in winter
+spite, malice
+to extract
+superfluous
+abundance
+icon
+individual
+industrial
+to exclude
+holidays, vacation
+droplet
+to throw os, rush
+here and there
+quantitative
+warden (of hostel); commandant, governor
+conflict
+contact
+crust; rind
+correspondence
+in summer
+maximal
+mechanical engineering
+locality, district
+uniform
+to gather, assemble
+to accumulate
+to swoop on; run into
+attire, costume; order, warrant
+insistent
+find
+repeatedly
+to be nervous
+not at all
+it hurts, it’s annoying
+mastery (of)
+to limit oneself (to); be limited (to)
+nut
+to separate
+to unlock
+dispatch; departure (of train)
+to feel, sense
+panic
+to plough
+first place (in competition); championship
+layer; stratum
+hurdle, wattle (fence)
+carpenter
+a bit closer
+submission, subjection
+fire (adj); (as noun) fireman
+bow (greeting)
+glade, clearing, forest meadow
+to beget, engender, generate
+a little faster; hurry up!
+to look (at) from time to time
+i: to respect; p: to read a little
+long poem
+scorn
+primarily
+adaptation; device
+arrival
+check(ing), inspection
+to fly through or past
+to wake up
+to scatter; crumble
+to dissolve; to open
+to get lost; panic
+reality
+record
+small river
+to be guided (by)
+collection, gathering
+report, bulletin
+handing over; change (money returned)
+seventy
+hay
+heart (adj); heartfelt; warm-hearted
+situation
+radiance
+chink, hole
+to break, fracture
+composite; component
+to refer to, quote; plead (give as an excuse)
+firmness
+exercise book
+number of copies; draw (lottery)
+ceremonially; festively
+emaciated
+crack; crash
+crack, cleft
+corpse
+to adorn
+persistently
+focus; trick
+formula
+football (adj)
+bread (adj)
+cotton
+clap, bang
+cycle
+experimental
+anarchy
+band, gang
+concrete (adj)
+burden
+to rotate
+guilty; sorry! (short adj)
+freely
+eighteen
+harmful
+self-control; excerpt
+forced
+tie, necktie
+geographical
+guitar
+clay (adj)
+hillock
+small door, car door
+ninety
+demonstration
+property
+jewel; something valuable
+to shake, waver
+to be chilled
+friend (coll)
+fir tree
+nonsense; trifling matter (coll)
+to burn
+completion
+envy
+to tie; start, get involved in
+to suffocate
+to call in
+final, concluding
+legislation
+to flood (sth with sth)
+to bring in; raise
+(+d) to forbid (s.o.); (+a) ban (sth)
+spectacle
+needle
+to escape from; get rid of
+exposition
+to investigate
+historian
+cash desk; ticket-office
+wedge
+at any time; ever
+checking, monitoring
+tiny (coll)
+merchant (adj)
+manoeuvre
+mathematics
+medicine, medical studies
+to mobilize
+set, collection; recruitment
+clearly, graphically
+to put in working order, set going, adjust, put in order
+to frown
+nationality, ethnic group
+bewilderment
+awkward
+irreconcilable; uncompromising
+vegetables
+fence
+definitely
+original
+to be brought about, be fulfilled, be put into effect
+to defend
+paternal
+to change; transform
+handrail, banisters
+sad(ly)
+to harm, damage
+disgrace
+(it is) useful; usefully
+Pole
+gust; impulse
+to intend for, earmark (for)
+to prefer sth to sth
+to cease
+overcoming
+teacher, lecturer
+invitation
+contact
+to join, join (a group)
+to make, do, accomplish
+profile
+jump
+(на +a) to emulate; (+d) be equal to
+to unroll, unfold; expand; swing round (make a U-turn)
+cut, section
+to explain
+to take up position; settle oneself; make os comfortable
+to broaden, expand
+producer (theatre), director (cinema)
+religious
+timid
+to collapse
+independently
+connected; bound
+deal, transaction
+to be bored; (по +d) miss (s.o. or sth)
+to keep to, adhere to
+to coincide (with)
+to acknowledge, be aware of
+to jump off
+competition
+bar, counter; stance
+arrow; hand (of clock)
+string (of instrument)
+spouse (wife)
+similar; (coll) fair (of price)
+worrying; worried
+tight(ly); difficult, hardly
+convinced
+sullen, gloomy
+to accuse (s.o. of), reproach
+conscientiously
+wearily
+ooh!
+branch (of organization)
+refrigerator
+bad, badly
+to clutch (at); catch (on)
+frequency
+attic
+clearly, distinctly, precisely
+to fling, hurl, throw (coll)
+to stir, move
+silk (adj)
+wool; hair (of animal)
+excursion
+skirt
+hawk
+vanguard
+archive(s)
+to gasp
+indisputable
+madly, furiously
+former, past
+to be introduced, brought in
+splendid(ly)
+platoon
+visibility; appearance
+temple (ear to forehead)
+to insert; invest
+tasty
+to run out
+fabrication, fantasy
+swine, rat (of person) (coll)
+fuel
+literate
+shell; grenade
+to roar, resound
+to heat
+discussion
+game, wildfowl
+trembling
+truly, indeed (coll)
+stomach
+to begin to beat; hammer in; block; cram
+to touch; catch (on sth)
+remarkable; remarkably
+note (adj)
+drought
+difficulty
+badge
+abundance; surplus
+to invent
+amazing
+elegant
+outcome, end
+calendar
+card
+to swear, vow
+coalition
+commentary
+pot; bowler hat
+steeply; sharply
+Latin (adj)
+to pour
+dashing, daring; skilful (coll)
+mask
+chalk; whitewash
+outlook, philosophy of life
+to torment
+ball (for games)
+in private; alone
+largest
+to be planned
+taunt
+dissatisfied (with)
+invariably
+immediate
+unusually
+incomprehensible/ly
+impatience
+failure
+to mark, designate, denote, mean
+to look over, inspect
+to limit
+approval
+to acquaint oneself with
+to condemn
+to repulse; remove; break off; beat off, get by force
+courageous
+tent
+foam
+primitive
+experience, emotional experience
+loop; hinge
+platform
+fertile, fruitful
+above
+everyday
+(coll) to turn up, crop up; be rolled up; be sprained, twisted (foot)
+to share (sth with s.o.)
+mean, underhand
+underground organization; cellar
+to imitate
+to rock, sway
+to rest, repose (on)
+purchase
+midnight
+to be located; find space, go in, fit in; install os
+vice; defect
+to spoil, damage
+visit (to), attendance (at)
+by means of
+parcel; errand; sending
+pretext; preposition
+to introduce os; present itself, occur
+to interrupt
+to attach (sth to sth)
+radio set
+prose
+to lay, construct (a road)
+farewell (adj), parting
+psychology
+to travel
+Friday
+to make out, perceive
+division; section
+to seek out, search for
+scorching, burning hot
+widespread, common
+to scatter
+to melt
+perplexed, bewildered
+to be jealous
+reputation
+to draw
+settlement, village
+silhouette
+blue colour, blueness
+to throw off (coll)
+fold, crease
+inclined (to)
+to climb down, climb off
+jointly
+commonwealth
+element, elemental force; chaos
+student (adj)
+to be ashamed of
+bag, handbag
+severely
+fight, tussle
+to get dark, go dark
+aunt; (coll) woman
+technician
+slim
+to stoke; heat; (p) sink (sth), drown (s.o.)
+thrice, three times
+small pipe, tube
+coward
+to shake
+to move away, withdraw
+to allot, give
+small knot; small bundle
+indicated, specified
+decoration
+to diminish, decrease
+clever person (coll)
+sad, cheerless
+reproach
+to strengthen
+tired
+duck; hoax
+faculty
+to kiss (each other)
+jokingly, facetiously
+electricity
+apple-tree
+abstract
+agitation
+administration
+exact, punctual; tidy
+Armenian (adj)
+carefully
+tramp, down-and-out
+giant
+Hungarian
+enclosure (in letter); investment
+beginning, origin
+magic
+hostile
+harm
+election
+filth; dirty trick
+geological
+soldier’s tunic
+oppression
+count (title)
+graph; schedule
+half-kopeck, farthing
+tsarist province (now область)
+democrat
+road (adj)
+clergy
+acrid, pungent; sarcastic
+greedily
+dwelling, habitation
+cherished, intimate
+replacement
+anew
+Western European
+to start singing
+to spend, expend
+ringing, clear
+expert
+irony
+confession
+leather (adj)
+colony
+horse (adj)
+sweet
+to whirl, spin round; begin to spin
+anyone
+to bathe
+small heap; small group
+paw
+lime tree
+trap
+to burst
+curiously
+mainland
+instantaneously, instantly
+snowstorm
+roadway
+armpit; mouse
+to guide (to); evoke, cause
+tax
+tension
+nationalism
+false(ly)
+rascal
+not for nothing
+mistrust
+someone, a certain
+unnecessary
+unquestionable
+novelty
+to dine, have a meal
+to snap; stop suddenly; stop short
+educated
+excitement, animation
+relative (adj)
+henceforth
+to move aside
+desperately
+waiter
+registration; putting in required form
+palm tree
+patriotism
+pedagogical, education (adj)
+to sort out; look through; go over; sort through; to take in excess
+correspondence
+to cut
+sorrow
+plus; advantage
+to dance
+cellar
+to wink (at)
+calculation
+entrance, doorway
+humbly, obediently
+half a century
+correction
+simply (coll)
+sequence; consistency
+to laugh
+in the middle (of)
+to explain
+correctness
+superiority
+to show, present (sth to s.o.)
+to keep to, adhere to
+to arrive (by air)
+admixture
+provocation
+sermon
+prophet
+to contradict (s.o. or sth)
+flourishing; prosperity
+bird’s
+drunkenness
+rainbow
+to rout; wreck
+to open; be revealed, open up
+reprisal; harsh treatment; punishment
+to be considered
+eyelash
+rhythm
+fish (adj)
+to slip; go wrong, get confused; huddle together
+timely
+restrained
+to bend, bow; be declined
+cattle
+daughter-in-law (of husband’s father)
+to be communicated; communicate with
+forecast
+spiral
+piece of information; certificate
+demand (opposite of supply)
+to fight
+to stamp (one’s feet); (coll) go (=идти)
+platform; stand (in stadium)
+to shake; tremble
+dim
+(euphemism for spitting; expressing dislike or scorn) yuk!, ugh!, pah! (coll)
+convincing; earnest
+success
+acceleration
+to calm, soothe, quieten
+concession
+in fact; practically
+ceremony
+circus
+Thursday
+to be felt
+wonderfully
+to whisper
+noisily
+electric power
+elementary
+energetic
+enthusiasm
+this way, thus; approximately (coll)
+irreproachable
+unconditional
+little birch tree
+uselessly
+biological
+pine wood, coniferous forest
+borsch, beetroot soup
+struggling
+barrel
+to reveal, expose
+budget
+to drag; to roll
+faithfulness, loyalty; truth
+vertical
+to climb up
+nonsense  (coll)
+to wind, twine, twist
+cherry (adj)
+damp, moisture
+to fall in love with
+to head, lead
+indignantly
+strong-willed
+to imagine
+funnel
+to perceive
+to throw (upwards, up onto)
+Tuesday
+university, institute (higher education establishment)
+to climb out
+to rescue; make (money)
+landing, disembarkation
+to send out; exile, deport
+head (adj)
+bitterness
+peas
+goods (adj)
+twelfth
+girl’s, maiden’s
+to divide, share
+to get to, vanish
+ahead of schedule
+achieved
+heat
+legislative
+selected
+measurement; dimension
+Indian
+inspector
+interview
+sideways (coll)
+artificially
+past, preceding
+Canadian (adj)
+kerosene
+bell-tower
+to rummage; dawdle
+critic
+prize-winner
+obliging
+favourite
+to be (briefly) visible
+mission
+lasting many years; long-lasting, perennial
+powerful
+fashion
+to pray
+wisdom
+half, by half
+the present
+discontentedly
+exceptionally
+field, cornfield
+fingernail, toenail
+nostril
+sock; toe of boot
+nurse (coll)
+to be discussed
+fiery
+to be expected
+eye (bookish, poetic)
+energetic; operative
+described
+payment
+organized
+to master
+sharply, intensely
+repulsive
+finishing, fitting-out, decoration
+postcard
+to tear off, tear away
+digression; retreat
+partly
+outline
+ash, ashes
+to be transmitted
+to leaf through
+cock
+to plan
+overwhelming
+to run up (to)
+tray
+raised
+suspiciously
+testimony; reading (on instrument)
+to pour (liquid on sth)
+to pardon
+in a new way
+delivery
+to extinguish; stew
+handwriting
+respected
+mercy
+to be offered
+to be proposed, intended
+to appear (before)
+charm
+press conference
+to squeeze up against; press os (to), snuggle up (to)
+bait; inducement
+on principle; fundamentally
+acquisition
+to open slightly
+entrance hall
+arbitrariness, abuse of power
+contradictory
+by means of
+to distinguish
+to analyze, decompose, expand, corrupt, demoralize, break down
+to put away, lay, set up, distribute, lay out; spread
+separation
+earlier
+rational
+resolution
+repair (adj)
+Roman
+to risk, take a risk
+sprout, shoot
+steering (adj); helmsman
+lead (metal)
+seven-year; seven-year-old
+to slide
+any, any quantity of
+accumulation
+fatal
+to supply (s.o. with sth)
+owner
+totality
+created
+straw (adj)
+to sympathize (with)
+specific
+rate; stake (gambling); headquarters (mil)
+poem
+capital (adj)
+table (adj)
+bustle, fuss
+bitch’s (poss adj)
+dance (adj)
+theatrical
+printing-house, press
+to prod, jab (sth into sth)
+comradely; friendly
+tragedy
+to rumple, tousle; pat; (coll) natter
+path
+blunt; stupid
+prop
+use
+to lose
+student (active participle)
+satirical article
+chaos
+beast of prey; bird of prey; predator
+loud laughter, guffaw
+keeping; storage
+to be kept
+spine; ridge; mountain range
+fragile
+virgin soil, virgin land
+the whole; integer
+small chain; series
+too, excessive(ly)
+ink
+clear, precise
+to clean
+sixteen
+cabbage soup
+economist
+to exploit
+perhaps
+author’s
+actress
+scarlet
+angel
+questionnaire, form
+ancient
+water melon
+banker
+flight, escape
+poverty
+petrol
+free (of charge)
+restlessly; disturbing
+brilliant
+unhealthy
+spray
+in addition (to) (coll)
+command
+probable
+master, ruler
+aroused, excited
+perception
+enemy (adj)
+all kinds of
+to force out, displace
+rotten, decayed
+to drive, make (s.o.) run
+sovereign
+to rob, pillage
+to move, set in motion
+nobleman, member of the gentry
+active
+voluntary
+to carry (sth to); (+a +d) report (sth to s.o.); (на +a) inform (on s.o.), denounce (s.o.)
+militia
+puff of smoke
+to chew
+worldly; everyday
+to drive in
+title, heading
+to strangle, suffocate, stifle
+to squeeze
+to start playing
+to order (sth)
+to have a snack, have some food
+prohibition, ban
+earthen, earth (adj)
+to introduce (s.o. to s.o. or sth)
+fame
+to mock (s.o.), make fun of
+executive (adj); efficient
+cabin
+fireplace
+campaign
+skating-rink; roller
+sausage, salami
+ear (of corn)
+business trip, study trip, assignment
+crutch
+to get stronger, get stronger
+mug, tankard
+grain
+to lie (in), be concealed (in)
+goblet, bowl
+to be deprived of, lose
+puddle
+boyish; childish
+honey
+to blink, wink
+hammer
+milk (adj)
+gloomily
+mentally
+to fall on; lean on
+supervision; surveillance
+proper, fitting, appropriate
+to punish
+to throw on
+to attack; come upon
+directed; purposeful
+to frighten
+to grow (on); increase
+vital, essential
+completely (coll)
+imperceptible
+invariable
+unlimited
+nervously
+tirelessly
+survey, review
+to paint, colour
+environs, vicinity
+negatively; unfavourably
+backward
+officially
+tree-stump
+to drive across; move (house)
+to intersect, cross, cut across
+to be written; be spelt
+to spit
+saying, proverbial phrase
+to destroy, ruin
+suppressed; depressed
+to take to; (+d) present to, bring
+to drive up to
+customer
+fullness; stoutness
+to mention; recall
+properly, in the right way
+popularity
+instructive
+respectfully
+superb
+to foresee
+throne
+in the customary way, as usual
+preparation
+non-resident, passing through, visiting; (as noun) newcomer, visitor
+adventure
+avenue (wide street)
+to back away, step back
+with indifference
+to gladden, please
+height, climax
+to irritate, annoy
+disappointment
+to stretch out
+disintegration
+roar
+revolutionary
+family (adj), kindred
+to growl
+individual initiative; amateur activity
+sale
+to boil, cook
+to weld
+lead (adj), leaden
+to make an arrangement (with s.o.)
+shift, displacement; change, improvement
+saddle
+to squeeze
+miserly
+perfection
+to mature, ripen
+salted
+solidarity
+ to be accompanied by
+to resist
+to break away; (coll) fail, go wrong
+to quarrel (with s.o.)
+elemental; spontaneous
+passionately
+passionate
+line (of text); stitch
+to tighten; pull off
+stool
+secretly
+creation
+current (adj)
+patience
+poplar
+toast
+to take away (by transport)
+fascinating, absorbing
+alas!
+to surprise
+regulations, statutes
+established, prescribed
+to remain standing; hold out
+textbook
+trouble, efforts
+cement
+tea (adj)
+to repair
+to scent, smell; sense, feel
+width; gauge
+episode
+furious, frenzied
+breakdown; accident
+authoritative, trustworthy
+hellish
+the activists; assets (financial)
+appetite
+Arab (adj), Arabian
+astronomic(al)
+beam, girder; gully
+pitilessly, ruthlessly
+soundlessly
+unconditional
+blond, fair-haired
+birch (adj)
+infinity
+powerless
+shameless, unscrupulous
+beaten; broken; whipped
+small beard
+used to, would (repetition) (particle) (coll)
+bath
+polite
+camel
+vertically
+culprit
+inside; inwards
+exclamation
+rebirth, revival, renaissance
+enthusiastic, rapturous
+rapture, admiration
+hollow, depression
+to lay out, put out, set out; (+a +inst) face, cover (sth with sth)
+to cut out
+to put out, extinguish; cancel
+to perish
+globe
+deep; deep-water; remote
+angry
+mass, bulk
+rudeness
+to gnaw
+dialogue
+in a businesslike way, energetically
+to demonstrate; (+a) show, display
+cheaply
+range, scope
+diplomacy
+to chance to, manage to, have occasion to (coll)
+to live (till)
+sight, place worth seeing
+antiquity
+wished for, welcome
+married (of man)
+cruelty
+amusing
+to fasten, secure
+forbidden
+to launch, throw; start up; thrust; start
+to harden, thicken, congeal; (coll) become stiff
+to undertake, start, organize (coll)
+to die down
+seizure, capture
+invader
+ominous, sinister
+pupil (of eye)
+needle
+inventor
+galosh, overshoe
+pebble
+guard, watch
+helmet
+bunch (fruit); brush; tassel; hand
+oath
+somebody; certain people
+comedy
+tip, point
+to criticize
+to turn, spin
+to cover
+cubic
+snub-nosed (coll)
+bast sandal
+caress; weasel
+lion
+lazy
+to pour
+onions
+place; small town
+to rush about
+fur (adj)
+microscope
+young and attractive; very young
+assembling, installation, mounting
+wise
+musician
+to stuff (sth with sth)
+(coll) to slander s.o.; (+a or +g) say a lot of
+to press
+intend (to) (short adj)
+physical pleasure
+legacy, heritage
+inheritance
+persistence
+to tune, adjust; (на +a) put s.o. in the mood (for sth)
+improbable; incredible
+there is nowhere
+near; dim, dull-witted
+hostile; evil
+neutral
+immense, boundless
+thread
+(feeling of) relief; making lighter; simplification
+observer
+to find (bookish)
+social intercourse, contact (with people)
+to end
+justification; acquittal
+edge (of a forest)
+person; personage
+opinion, response; review, criticism
+to pour off; cast (metal); (no p) (+inst) be streaked with (a colour)
+to register, sign one’s name
+to seek out, seek and find
+passenger (adj)
+initial, original
+paramount
+to exchange glances (with)
+promising, having prospects; long-term
+pie
+to feed
+to see (coll)
+to move, shift; be served (of food)
+preparatory
+to forget (coll)
+to become crooked; (на +a) look sideways at
+clinic, health centre
+military leader
+half-length sheepskin coat
+embassy
+legend
+to prefer (sth to sth)
+prejudice
+arrival (bookish)
+calling, vocation
+primitive
+(к +d) membership (of); (pl) equipment, accessories
+prince
+to look closely (at); get used (to)
+to adapt (sth)
+to run (past/through/a certain distance)
+to be sold; sell os
+to think through, over
+cool
+farewell, parting
+fifteenth
+developing
+to untie
+to crush
+to swing (sth)
+reflection, thought
+wounding, wound
+to fall apart, break up
+to throw open
+to dismiss, disband; let out
+to place; distribute, set out; move apart
+recommendation
+horn
+small fish
+knight
+napkin; tissue; serviette
+to run down, run away
+to shift
+silvery
+cigar
+systematically
+to skip; gallop
+to squeak, creak, crunch
+sculpture
+complexity
+equipment
+to lower, reduce
+to perfect, improve
+creator
+consciously
+falcon
+to decrease, be reduced, get shorter
+hundredth
+sauce
+sympathy
+to groan
+wanderer
+snowdrift
+to promise (sth)
+term (specialist word)
+patiently
+terror
+to languish, suffer
+to be miserable; (пo +d) yearn for, miss
+to sharpen; gnaw at, corrode
+three; group of three; troika
+shoe, house shoe, slipper
+with conviction
+lavatory; dressing-room (in theatre)
+to treat (s.o. to sth), entertain
+urgent; attacking; percussion (adj)
+decline
+to drop
+to adopt, acquire (habit); master, learn
+foundation, support
+ravine
+physiognomy, face; shape
+to boast (of)
+to be in charge; throw one’s weight about
+to bury
+to reign
+to sew
+what (a) (=какой) (coll)
+aesthetic
+poisonous; venomous
+agrarian
+chemist’s, drugstore
+association
+to attack
+ballet
+velvet
+fable
+mad
+sleepless
+noiselessly
+cheerfulness
+bombardment
+fear
+to shave
+revolt, rebellion
+bicycle
+file, line, string
+oar
+mutual understanding
+whirlwind
+inclusion
+to arm
+Sunday (adj)
+to revolve
+auxiliary
+invasion
+to knock out, dislodge
+to look out
+advantageously
+to volunteer
+to drink (alcohol)
+to push os forward; lean out; poke one’s head out
+stretched
+to guess; tell fortunes
+gallery
+anniversary
+pigeon, dove
+handful
+sitting-room
+heap, pile
+Far Eastern
+(period of) duty
+effective
+to dictate
+dissertation, thesis
+voluntarily
+early, ahead of schedule
+picturesque
+housing (adj)
+fat, fatty
+to eat (very coll), gobble up
+to run in; call in; run off, (coll) drop in
+to start rushing around
+to be forgotten; doze off; forget os
+suntanned
+to become overgrown; heal (of wound)
+pay, wages, salary
+to be covered (by); drag on; inhale (when smoking); heal (of wound); tighten one’s belt
+claim, official demand
+person from same area
+voter
+engineering (adj)
+their (very coll) (= их)
+(State) Treasury
+to drip
+horse-drawn carriage
+qualified, skilled
+cloth cap (soft, with peak)
+client
+crafty
+combination
+small horse; hobby
+competitor
+to check
+hoof
+coffee
+purse (for money)
+critical
+small leaf
+dexterous, skilful, smart
+dexterity, smartness
+to break; (coll) put on airs; (coll) be awkward, make difficulties
+a bit, a little
+child (coll)
+massif, mountain-range; large area (of sth)
+maternal
+day-dreaming
+mile
+minimum
+peacefully
+frosty
+to be tormented; worry, torment os
+soap
+observer
+skill, technique
+it is necessary (= надо)
+to lay sth on sth, put on, superimpose
+sarcastic
+onslaught; pressure
+to run into, stumble upon, meet unexpectedly
+undertaking, initiative
+not very well; it doesn’t matter
+ignorance
+incorrect; uncertain; unfaithful
+indignation
+misunderstanding
+ugly
+clumsiness
+incapable
+unbearably
+unsuccessful
+bottom, lower part
+novice, beginner
+normal, OK
+to rush around; float, drift
+monkey
+oats
+to be sad, distressed
+person on his or her own, single person
+embittered, bitter
+to revive, come to life
+orange (adj)
+organizational
+donkey
+to dare
+to look round, see where one is, get one’s bearings
+caution
+point, spike
+repulse, rebuff
+patronymic
+parliament
+sail
+to enumerate; transfer (money)
+to feed (on)
+nephew
+to rise
+to suppress
+resemblance, likeness
+juvenile, youth
+subordinate
+to submit, be subject to
+to get married (of a couple)
+congratulation; greeting
+to crawl about
+agreed, fixed
+a little less
+little by little
+strikingly, astonishingly
+in Russian; in Russian style
+supplier
+it looks like; it seems (= кажется)
+kiss
+government (adj)
+to prevent, avert
+to predict
+to despise
+claimant, aspirant (to)
+attractive
+to sentence (s.o. to)
+ghost
+breach
+to sit (for a specified time)
+to track, trace
+to say goodbye (to)
+to set out, start, embark (on sth)
+to confuse, mix up
+female worker
+to unfold; expand
+to undress, get undressed
+to accommodate
+disagreement
+execution (by firing squad)
+torn
+jealousy
+fishing (adj)
+lever
+sanatorium
+rapprochement
+to burn, burn out
+systematic
+violin
+dictionary
+working
+docile
+outside, from outside
+the present age
+to coordinate
+(female) neighbour
+to get bored; (пo +d) miss
+to remember suddenly (coll)
+to be asked
+shame
+to squeeze
+especially; exclusively
+to seize; (c +inst) grapple with
+to create
+to be going on, happen
+thesis, proposition
+to interpret, explain
+tragic
+to tremble
+path
+misty
+Turkish
+prison (adj)
+to dismiss, fire
+dismissal
+to steal
+to take refuge (from)
+skilfully
+to implore
+to grow stronger, increase
+to accelerate
+to become established
+to rush, dash; be fixed on, aspire to
+to console
+fountain
+formally
+fruit, piece of fruit
+to praise
+cunning, guile (noun); ruse; (coll) ingenuity
+to gush
+horse’s collar; burden, yoke
+hooligan
+tea (dim), nice cup of tea
+thicket
+anything
+tub; gang
+woollen
+analogous
+arithmetic
+arsenal
+atheist
+bandit
+vigilance
+selfless
+hopelessly
+unemployed
+to grow white, be white
+whiteness
+unconcerned with personal gain, disinterested, unselfish
+helpless
+mercilessly
+blockhead, idiot
+bomber (aeroplane)
+swearing, abuse
+to plod along
+(cut) diamond
+abandoned
+weekdays
+experienced
+cotton wool
+inspired
+to manage, be in charge of; (+a) know
+politely
+to blow (wind), flutter
+to weigh
+scream
+guilty
+to investigate
+to lay on
+embodiment
+rising
+national
+to cry out
+three times (as much)
+signboard
+to transport away; export
+reprimand; pronunciation
+ability to endure, stamina
+to stretch out
+to knock out, kick out (coll)
+garrison
+large lump (of rock, ice etc.)
+proudly
+literacy; document, deed
+Greek (man)
+mane
+threateningly
+the number two; fail (mark in exam)
+businesslike
+democratization
+children (coll)
+prewar
+to be satisfied (with)
+to be achieved
+leisure
+tin (adj)
+dreadfully
+conquered
+to stand still, die away
+to start yelling
+to thrust (sth into sth)
+to make a noise
+greenish
+earthquake
+to be angry, get angry (with)
+spite, bad temper
+knowledgeable
+gilded
+intonation
+skilfully
+skilful
+giant (adj)
+to execute
+cabbage
+to clamber (coll)
+to roll around; take a trip
+qualification
+maple
+stake (wood)
+board (administrative body)
+to chop; stab
+envelope
+cooperative
+copy
+small box
+Kremlin (adj)
+critically
+to bark
+downpour
+laziness
+equine, horse (adj)
+sly
+chandelier
+fierce
+raspberry (adj)
+to beckon, lure
+mat(t), dull
+mast
+ice-cream
+litter
+thinking
+to gain, make (money)
+punishment
+intense heat; intensity
+by a lot
+to spit; not to give a damn about
+to be lacking
+tenderness
+not long before
+hated, hateful
+indefinite, vague
+indecisively, hesitantly
+injustice, unfairness
+failure (person)
+mass (church service)
+promise
+to bare, expose
+surveying, survey
+roadside, kerb
+evasion, going round
+to unite
+objectively
+oceanic
+little window
+encirclement, surrounding
+fear
+to come to one’s senses
+to justify os; make excuses
+illuminated
+reflection
+imprint
+to hunt
+to regain consciousness
+bosom
+partner
+partition
+survival, relic (of the past)
+to be baptized; (p) cross os
+to intersect
+to change
+lane
+saw
+pyramid
+burning
+weeping
+stove, cooker; slab
+to relate, tell
+suppression
+to lead up (to); (coll) let down (disappoint)
+mean behaviour; dirty trick
+suspicion
+(female) friend (dim)
+pose
+gunpowder
+placing, setting; staging (of a play etc.)
+to grow old
+joining (an organization); arrival (of goods)
+shock
+dust
+to surpass, excel
+devotion
+beforehand, in advance
+giving, granting
+predecessor
+prime minister
+to reform; transform
+pursuit; persecution
+notorious
+to exaggerate
+to nail, fix (to)
+greeting
+cover, screen
+decent
+taking, acceptance
+accepted
+to lean (against)
+walk; outing
+renowned
+to come through, show through
+to flow; pass (of time); leak
+opposite, antithesis
+last year’s
+pardon
+public
+to get mixed up
+drunkard
+radio (set)
+to break (into pieces), get broken
+to scatter
+to change one’s mind; (i only) (o +pr) ponder
+to fall apart, be destroyed
+racist (adj)
+to upset
+rib; edge
+face (very coll)
+dew
+bed (of river), channel
+autocracy
+capitalist (adj)
+whistle
+arch, vault (roof); collection of texts
+family
+siren
+muscle
+to merge, join together
+to submit; resign oneself (to)
+dark (of complexion)
+to come down, fall, go down
+observance
+assistance
+to convene
+to confess
+correspondingly
+specialization
+to be placed
+stimulation
+to wash (clothes); rub off
+worthwhile (adj)
+strategic
+sovereignty
+bough
+confusion, turmoil
+to pour out
+to be concealed
+taxi
+to push, jostle
+thickness
+sound of footsteps, patter
+inn
+tribunal
+labour-intensive, laborious
+to please; (coll) get into, end up (p only)
+convenience
+grave
+organization, structure (of life, society)
+jab, injection
+intelligently
+to mention
+stubborn
+to sit down, settle down, take a seat
+stability
+to grasp
+to survive
+festival
+finances
+cunningly
+to whip
+hops (for beer); tipsiness
+(ice-)hockey
+unmarried
+little man
+cast iron
+to hiss
+spy
+echelon; special train
+little apple
+creche
+share (in company)
+anecdote, joke
+aristocratic
+assembly
+crimson
+barometer
+barrier
+hopeless
+nameless
+Belorussian
+coastal
+without party affiliation, independent
+pointlessly, meaninglessly
+fearlessness
+whip; scourge
+good
+delirium; rubbish
+to shave
+paunch (coll)
+stormily; energetically
+weeds, tall weeds
+to rage
+riding
+lobby
+scales
+ancient, dilapidated
+party
+to weigh
+to climb in
+to inculcate; introduce; put into practice
+educational
+rotation
+to be recalled, come to mind
+secondarily
+second; secondary
+to grip, grip hold of
+to wash (thoroughly)
+bad behaviour, escapade
+guarantee
+garage
+to announce, say
+backwoods, the sticks
+future (bookish)
+landing (mil, by air or sea)
+scarce, in short supply
+directive
+bottom (of vessel)
+to reach
+down with
+to interrogate
+to value
+to tease
+to doze
+amicable; simultaneous
+duel
+haze
+hole
+accommodation
+amusingly
+to lose one’s way
+to block, cram
+to become interested in
+to stick in one’s memory
+glow
+to light (stove); to flood, sink
+protective
+ringingly, clearly
+mirror (adj)
+significant
+to be, figure
+golden
+to save (from)
+eruption
+from outside
+traitor
+to measure
+from inside
+isolation; insulation
+amazement
+to be fulfilled, be completed
+nevertheless, all the same (coll)
+sour
+bedbug
+tuft, scrap
+whip, knout
+to sway; flutter
+command (adj), commanding
+oblique
+boiler
+little cross
+blood (adj); vital
+blacksmith
+cuckoo
+frivolous
+easiness; lightness
+mendacious
+logical
+manifesto; proclamation
+millionth; containing a million
+imaginary
+to collect
+to overtake, catch up
+(on) the day before
+drink
+pressure
+growing
+violent, forcible
+pump
+invasion
+improbably
+innocent
+illiterate
+uncomprehendingly
+some, certain (people)
+unthinkably
+unwillingly
+inseparably
+unjust
+uncertainly
+oil worker
+bad
+unclean, impure
+unclearly
+to equip
+rite, ceremony
+announcement
+embrace
+to master; take possession of
+to lend (sth to s.o.)
+to become lively
+detached house
+sharpness; witticism
+condemnation
+to transport away
+to distract
+disgust
+return; performance, dedication (at work)
+jointing; parting
+from somewhere
+to abolish, cancel
+to be absent
+to clean, purify
+parade
+hairdresser’s, barber’s
+to throw over
+raincoat; cloak
+to weave
+damage
+foul, vile
+lost, ruined
+one is supposed to
+to immerse os (in sth)
+raising
+detailed
+to be emphasized
+disgraceful
+to rock
+humble
+covering; (coll) lid
+gently sloping
+a little better
+to make peace, be reconciled
+lowering
+postwar
+hastily
+descendant
+gait, walk
+ruler
+to betray; hand over
+presentiment
+charming
+prestige
+useful
+to get ready
+decently
+to ascribe (sth to sth/s.o.)
+to adapt (to)
+to pretend (to be sth)
+to quieten down
+to force one’s way through, fight one’s way through
+failure, collapse
+guide, conductor
+provisions
+industrialist
+to rush through/past
+to feed; saturate
+to whisper
+lock of hair
+biscuit or cake with spices
+machine-gun (adj)
+confusion, mix-up
+flaming, blazing
+uniformly, evenly
+ruin
+to distribute, give out
+to move apart
+irritation
+to decompose, disintegrate
+sensibly
+absent-mindedly
+bloom; flourishing
+to assess
+implementation; sale
+rubber (adj)
+trade (profession)
+rejoinder, retort
+kinship
+rye
+luxury
+light brown (hair)
+to vouch for
+jerk; spurt
+to throw down; pile up
+it’s light
+to lament, complain (about)
+compressed
+to roll down
+lousy
+so
+elephant
+to confuse, mix
+to embarrass; disturb; trouble
+embarrassment
+snowflake
+to warm
+creative
+correlation
+knoll, mound; volcano
+accompaniment
+pine (adj)
+to trip, stumble
+descent; slope; release
+bygone times; (coll) old fellow
+old-fashioned
+to drag off; (coll) pinch
+stable; steadfast
+small column
+watch, guard (adj)
+stop; parking
+to be cowardly
+to travel there and back
+pill
+secretly
+customs (adj)
+to repeat
+hothouse
+to exterminate, poison; damage; hunt; persecute
+transport (adj)
+tropical
+trophy; booty
+round (sport)
+tourist (adj)
+locomotion; (к +d) thirst for, attraction towards
+to send away, remove
+surprised
+decree
+to wash os
+humiliation
+previously mentioned
+hurricane
+formal
+characteristically
+gloomy
+brave
+cement (adj)
+cup; chalice
+to scoop, draw (from)
+honesty
+four; group of four
+cast-iron (adj)
+chance
+small hat
+silk
+very (coll)
+jester, clown
+generously
+to flick; (+inst) click, crack, snap
+egoism, selfishness
+energetically
+enthusiast
+humour
+youthful
+January (adj)
+amnesty
+asphalt
+airport
+to spoil (s.o.)
+barricade
+lord’s, barin's
+lacking people, unfrequented
+indifferently
+irreversibly
+boundless, unlimited
+unceremoniously
+nobility
+blessed
+chatter, gossip (coll)
+bombardment (coll)
+squeamishly
+bronze
+small bottle
+boulder
+mitten
+to make merry
+ham
+mutually
+guiltily
+outwardly
+exterior
+objection
+Volga (adj)
+to steal
+to move (sth heavy); (+inst) have control of
+to turn, toss and turn (coll)
+to fall in/into
+all together (coll)
+by hand
+to insert
+introduction
+as a threesome
+resilient
+to disembark, land
+to speak out, state one’s opinion
+to calculate
+harmonious
+smoothly
+light-bluish
+humane
+ages ago (coll)
+gentry (adj)
+to tug
+detective story
+wildly; absurd
+addition
+to roll to, come to
+shack, hovel
+additionally
+delivery
+worthily, properly
+idiotic, stupid (coll)
+stuffy
+to smoke
+to thirst for
+amusement
+screen
+set, assigned
+well-off
+to be closed; close down; cover os
+purchase
+entertaining, interesting
+to intimidate
+confused, tangled
+to sit, be in session
+to get stuck
+sunset; call (at a place)
+often (coll)
+sound (adj)
+snake
+yoke (oppression)
+toy (adj); tiny
+ideal (adj)
+graphic; decorative
+ironically
+sincerely
+fighter (plane)
+initial
+heel
+ditch
+candidature
+capricious
+punishment
+to guard; lie in wait for
+categorically
+rag, shred, tuft
+concretely, specifically
+headscarf
+blouse
+extreme
+handsome man
+tiny
+winged
+jug, pitcher
+hen’s
+to climb
+small ribbon
+violet, lilac
+dashingly, with spirit (coll)
+fever; rash
+breaking
+shaggy
+skier
+ski (adj)
+May (adj)
+mummy
+mathematician
+minority
+broom
+millionaire
+alms
+miniature (adj)
+fashionable
+monastery; convent
+muscle
+excruciatingly
+out of spite; (+d) to spite (s.o.)
+designation, name
+with strain, intensively
+to be broken, be infringed
+heir
+to number, total
+intolerable
+immeasurably
+not for long
+reluctance; (coll) (+d) to be unwilling
+enemy
+unhurriedly
+unhurried
+elusive
+shortage (coll)
+accidentally; unexpectedly
+brand-new, nice and new
+stretcher
+nose (adj), nasal
+abundance
+to generalize
+to overtake, outstrip
+to adore
+cut edge
+to encompass
+limitation
+narrowness
+homogeneous, of one type
+to overcome
+necklace
+to illuminate
+naughtiness (coll)
+occupation
+okrug, region
+cigarette end
+to refute, disprove
+to empty, become empty
+eagle
+solidly, soundly, thoroughly
+to lean back
+to brush off
+abolition, cancellation
+note, mark
+to work off (debt etc.), work (shift etc.), finish working
+retirement, resignation
+departure
+clear, distinct
+parachute
+lad (coll)
+pedagogue, teacher
+to turn over
+movement
+to mimic
+to move
+displacement, shifting
+to tangle, confuse
+to reconsider
+character
+personal
+defeated
+to gleam
+notification
+repeated
+bandage
+pursuit
+to move; advance
+to set fire to
+hem
+to undermine
+confirmation
+to tighten; pull up
+the day before yesterday
+flap (of coat etc.)
+log
+to break
+canvas (painting); linen
+peninsula
+enslavement
+to whistle
+to take up residence
+financial assistance; textbook, educational aid
+gradual
+to shake
+staggering, astonishing
+praise
+postal, mail (adj)
+to rule
+to celebrate
+to be intended for
+to stop, discontinue
+to run up, come running
+approach
+to tidy up; (coll) take over, pocket
+to become attached to
+counter (in shop)
+noteworthy
+to be reconciled with
+to remember, recall
+to place sth against sth
+to stick to, adhere (to); pester
+to proclaim
+to swallow
+salesman, shop assistant
+to prolong
+to spill
+to keep silent
+to rush past; slip through
+to become famous
+to look over; overlook, look through
+miscalculation; counting
+to resist
+passage; passageway
+even, uniform
+equality
+to fall to pieces
+unfolding; development
+entertainment
+to become irritated
+split, schism
+receipt
+to settle up, pay
+routine
+to be distributed
+to disperse; give os a break
+to unfasten
+to grow, raise
+to dash
+editorial, editing
+reporting
+restoration
+native; dear (= родной)
+flush, rosy complexion
+to dig
+freshness
+overthrow
+in good time
+with restraint
+little sister
+cigarette
+leap
+badly
+tendency (to); aptitude (for)
+squeak, creak
+verbal
+word (coll)
+developed
+vague, dim; troubled
+to bend; stoop
+treasure-house
+sleepy
+fortieth
+to suck
+to combine (with)
+bedroom
+to escape, save os
+to copy; write off
+match (adj)
+sleeping
+Central Asian
+medieval
+to happen (coll)
+to abate, die down
+strictness
+dusk
+soup
+dried
+to formulate
+shooting (of film); surveying; taking away
+to drive down; (coll) slip
+surprise
+mysteriously
+rhythm, time; tact
+telescope
+to crowd, throng
+to slow down, impede; brake
+sober
+throne
+rope, cable
+vanity
+wretched
+deepening; depression, hollow
+to become deeper; (в +a) go deep into, become absorbed in
+successfully
+to fly away
+to reduce
+mouth; lips (poetic)
+conventional; conditional; tentative
+tiredness
+to bury os in; bump into
+small figure; figurine
+ventilation window
+to snort
+junk
+pretty
+thin
+to flower, flourish
+flower (adj)
+entire
+chicken
+tiptoes
+cheque; receipt
+skull
+to seem, imagine (coll)
+stocking
+a little bit, just a little (coll)
+to grope, fumble
+rustling
+stamp, punch; cliche
+fine
+storm, assault
+thing, object (coll)
+generous
+economically
+stage (adj)
+echo
+poison
+furiously
+automation; machinery
+to address (sth to s.o.)
+arch
+archaeologist
+aphorism
+mark (exam)
+poor fellow (coll)
+limitless
+idleness
+pitiless
+safe
+hut
+squirrel
+pancake
+senseless, meaningless
+bible; the Bible
+biology
+to bless
+to flash
+brilliantly
+cheerful, in good form
+smart, lively
+weekday (adj); dull, everyday
+small loaf
+inspiration
+to ponder on
+list, register
+fan
+helicopter
+believer (religious)
+upper reaches (of river)
+substantial, material
+mutual assistance
+to fly up
+to scream; squeal
+grapes
+reservoir
+to raise
+to return
+to rise
+retribution
+howl; wailing
+hairy
+enthusiastically
+rise
+indeed (coll)
+in all possible ways
+thoroughly
+to unseal; disclose; dissect; open; reveal
+splash
+secondary, subsidiary
+fourthly
+to switch off
+to write out; subscribe to (periodical)
+to become straight, straighten up
+to be released
+expressive
+utterance, statement
+to shoot, fire (at)
+to snatch, pull out
+snowstorm
+brilliant
+hydroelectric station
+depth
+to grieve
+horizontal
+town-dweller
+hospitality
+influenza
+Georgian
+related through grandparent
+declaration
+cheeky; daring
+minutely, in detail
+valour
+good-natured
+high-quality
+bad(ly)
+to strangle; perfume
+daily, everyday
+greed
+reaping, harvest
+vitality; lifelikeness
+beetle
+journalism
+solicitous, caring
+to brew
+to start (working); (coll) get worked up
+dependent
+to drown (a sound)
+foreign
+to start hooting/humming
+to tear to pieces; lift up (coll)
+to borrow
+interest (in)
+to cast, toss
+legality
+regular, predictable
+hors-d’oeuvre; snack
+to freeze
+spare, reserve
+belated
+to load (weapon); charge (electrical equipment)
+to shoot dead
+congealed; frozen
+venture, undertaking; game, escapade; embellishment
+to stop up, plug
+star (adj); starry
+sound, sounds
+land (adj)
+maturity
+betrayal
+invalid
+hoar-frost
+instance, stage (in legal proceedings); department
+executor; performer
+fright
+to destroy, exterminate
+eve
+to cough
+square
+rut
+cap
+pram; carriage
+lump, ball
+competition
+inspector
+tub; trough
+to mow; twist
+nightmare
+briefly
+wings (theatre)
+to bite; sting
+labyrinth
+legendary
+medical, medicinal
+litre
+bald patch
+massive
+sailor
+(small) machine
+medicine
+shoal, (sand)bank
+sword
+petty bourgeois, lower middle class person; philistine
+gracious, kind
+diversity
+morally
+to blink; wink
+Muscovite
+shaggy
+darkness, gloom
+to take revenge (on s.o. for sth)
+excruciating
+thinker
+awry, on one side
+to overhang
+to impose, foist (sth on s.o.)
+to reward
+pressure; clamp
+naively
+the best
+to accumulate
+present, visible
+to allude to
+to intend
+insect
+to delight (in), get physical pleasure (from)
+hastily
+to number, total
+negro
+negro (adj)
+dissatisfaction (with)
+there’s no point
+(it’s) uninteresting
+neutrality
+dumb, silent, mute
+urgent
+indecisiveness
+unprecedented
+countless
+really? (coll)
+new-born
+to burn; bake, fire (bricks etc.)
+resentfully, looking hurt
+to exchange
+defence (adj)
+reservation, proviso; slip of the tongue
+to dress
+monotonous
+one-sided; one-way
+animatedly, excitedly
+mischievous (coll)
+to get cold, chilled
+cursed
+to hail, call (to s.o.)
+to insult
+inspection
+to cool down, get cold
+abstract
+to open
+to throw away, throw back
+frankness
+ebb, falling tide; tinge, tint, play of colours
+tearing off; isolation (from)
+to push away, repel
+to put into proper form
+to burn, scorch; singe
+steam (adj)
+to graze; to shepherd
+pensioner
+ration
+to transport across, from swh to swh
+to bandage; tie up
+to intercept
+to reread
+to be printed, be published
+food (adj)
+to turn pale
+to be afraid, not dare to
+superficial
+to hang, dangle; droop, sag
+pogrom, massacre
+to yield, give way (to)
+genuinely
+to put under; add
+undermining; subversive
+to be covered (with), cover os (with)
+to eat (polite usage)
+hemisphere
+pole (geog)
+to be remembered
+at some distance
+to get better; correct os; put on weight
+to draw level with, come up to
+portion
+to decide, resolve
+as before
+slowly; quietly; secretly (coll)
+to take the trouble (to); do some work
+to slap, clap
+esteem, respect
+celebration
+devoted
+foresight
+maximally
+maximum (adj)
+prerequisite, precondition
+president’s, presidential
+scorn, neglect
+to teach
+to claim (sth)
+attraction
+rising tide; influx
+to raise os slightly
+appropriation; conferment
+partiality; weakness (for)
+tributary; inflow
+to sew on
+test, trial
+advancement, progress
+to curse
+to pierce, penetrate, permeate
+penetration
+spring (mechanism)
+control panel; music-stand
+wheat (adj), wheaten
+torture
+indifference
+to flare up, blaze up
+exposing, unmasking
+wide-open
+racial
+situated; (к +d) inclined, disposed to
+to distribute; allocate
+to catch (sth said)
+to arbitrate (between), judge; decide
+bewilderment, dismay
+to spend, use up
+recipe; prescription
+rosy, ruddy
+to collapse
+friable, crumbly; (coll) podgy, flabby
+small candle
+ferocious
+peculiarity, individuality
+to get in touch with; communicate with; (coll) get involved with
+sacred place or thing
+to tighten, clench
+symbol
+symbolic
+orphan
+(grammatical term) mournful
+meagre
+with high cheek-bones
+investigator
+behind
+service (to), serving
+inspection, review
+awareness
+calling, summoning (of meeting) 
+to snuffle
+to compete, vie (with)
+unity, solidarity
+to work (function) properly
+opinion, judgement
+spouse (husband)
+vitally, essentially
+to pour, strew
+tobacco (adj)
+creator
+to rub
+interpretation
+thinness; subtlety
+to hurry (s.o.)
+highway; route
+to crack; crackle
+thirtieth
+cane, walking-stick
+tunnel
+threatening
+to pack one’s things; (в +a) fit (into sth)
+to lie down, go to bed; (p only) calm down; (p only) settle
+slope; deviation, bias
+stealthily
+to catch; detect
+to let slip; miss
+whisker; antenna, feeler
+to slip away
+mouth, estuary
+to make more precise; verify
+loss
+to look after (s.o.); make advances (to a woman)
+fate, lot (in life)
+cosy
+factory (adj)
+phase
+federation
+coniferous
+gloomily, sullenly
+slim, thin (coll)
+centralized
+quotation
+partial
+to alternate (with)
+to draw, draw up
+to be, be listed; (+inst) be considered (to be sth)
+sensitive
+store-room, box-room
+plague
+a little (coll)
+Swedish
+six hundred
+casket, box
+to smack
+rustle
+brush
+to save, economize
+label
+lawyer
+clearly
+berry
+analogy
+scent, aroma
+Baltic
+bass
+infinitely
+homeless
+immensely
+insomnia
+biblical
+blessing
+politeness
+heroic
+divine
+little brother (coll)
+made of logs
+vein
+bureaucrat
+jam, preserves
+into the depths
+in the distance
+in abundance; enough
+to inspire
+witch
+magnificence
+brush, bundle of twigs (for sweeping floor or beating body in sauna)
+wreath, garland
+on horseback
+eternity
+to appeal to
+cherry
+to join; be included; be switched on
+to fly in
+influential
+(c +inst) to associate with; be, be found
+to renew
+warlike
+wail, howl
+(small) collar
+to reproduce
+to admire
+to flare up (coll)
+to sob
+all kinds of (coll)
+to pull in
+to squeeze out
+to set down, land
+to get enough sleep
+explanation
+to tie; knit
+harmony
+heroism
+flexible
+hymn, anthem
+hypothesis
+to swallow
+top (of a boot)
+to go hungry
+voting
+carafe, decanter
+cumbersome, bulky
+humanitarian; humanities (adj)
+dregs; thicket
+free, gratis
+day (dim)
+detailed
+deficit; shortage, shortages
+jeans
+conscientiously
+documentation, documents
+sufficiency; prosperity
+dramatic
+to be friends (with s.o.)
+idiot, half-wit
+stuffy
+to smoke
+small hole
+person interested (in doing sth)
+yellowish
+complete; consummate, professional
+to imprint
+to touch, affect
+to stride out
+grain
+significance
+to expel, banish
+favourite
+to be measured
+to spend, use up
+porthole
+to illustrate
+to name
+equipment; inventory
+intellectual (adj)
+minerals
+full (of)
+correction
+hysterics
+exhaustive
+Italian
+rope, cable
+capital investment
+to roll (sth)
+Kiev (adj)
+boiling water
+class (adj); first-class
+clinic
+goat
+trump
+knee (coll)
+prickly
+mosquito
+overalls
+chest of drawers
+conveyor belt
+to confiscate
+concert (adj)
+concentration camp
+decease, demise (formal)
+cooperative (adj)
+to dig
+squint, askew
+stone (of fruit); small bone
+kitten
+to paint, colour; dye
+reddish
+crash; failure
+crumb
+to groan; grunt
+body (of vehicle); basket
+cult
+liner
+lung
+lazily
+to undergo treatment, be treated for
+line (on paper); ruler (for drawing lines)
+London (adj)
+rag, scrap
+obligingly, courteously
+top; crown (of head)
+to manoeuvre
+mechanically
+mechanical engineering (adj)
+finely; pettily
+in passing
+(+a) to mark; (в +a) aim (at)
+lower middle-class woman; philistine
+diverse
+rumour(s)
+monument
+wrinkle
+marble (adj)
+peasant (adj), peasant’s
+to heap up, pile
+for ever
+manure
+tightly, firmly
+to warm, heat
+to draw near
+necessary (coll) (= надо)
+to hire
+to give to drink
+in the end (coll)
+level (with), on equal terms (with)
+hastily (coll)
+wide open
+scientifically
+distrustfully, suspiciously
+unforgettable
+unthinkable
+abnormal; mad
+invincible
+incomplete
+unyielding, adamant
+insurmountable
+inaudible; inaudibly
+tireless
+to dive
+to consider, ponder, think over
+to protect (s.o. from sth)
+use; custom, practice
+cloudy
+to pour sth (inst) over sth
+cover (of book etc.)
+naked
+generalization
+model, exemplary
+to collapse, cave in; (на +a) fall upon, attack (s.o. or sth)
+simultaneous
+animated, excited
+surrounding
+caution (coll)
+refutation
+lowered
+liberation (adj)
+complication
+to make sense (of sth), interpret
+remaining
+witty
+selection
+to separate (from)
+to respond (to sth)
+from everywhere
+negation
+perceptible
+to be felt
+panorama
+parliamentary
+school desk
+cobweb
+singer f
+originally
+crossing; mountain pass
+alteration
+crossroads
+tint; play of colours
+to copy, adopt
+change (of transport); transplant(ation)
+to ask again
+periodic, recurrent
+pie
+smoothly
+floating
+fruitful
+narration
+to obey
+to move, twitch
+border (adj)
+to suspend
+support, maintenance
+to be subject to
+suspicious
+for a long time
+differently
+to make friends with
+to run up; jump up
+approach
+to be confirmed
+sometimes
+duel
+to take an interest, wonder
+polished
+Politburo
+politically
+positively
+hindrance
+Monday
+to have a drink
+vicious; defective
+to be in time for; ripen (coll), be on time; keep up with
+mediation
+to pour down
+in your opinion; as you want it
+to rub
+to trouble
+to lecture (s.o.)
+to spare
+obstacle
+foreword
+prevention
+to precede
+to scorn (s.o. or sth)
+debate, discussion
+coastal; riverside
+to inoculate; inculcate
+prize
+to fasten (sth to sth)
+sign
+to take over, appropriate; award, confer (sth on s.o.)
+to look after, supervise
+fixed, constant
+present, (as noun) person present
+to train (to do sth)
+hairstyle
+odd, whimsical
+to preach; advocate
+to break through; tear
+to cut through
+to be translucent; shine through
+to make famous
+to stand idle
+sheet (bedding)
+protocol; minutes (of meeting)
+procedure
+small bird; tick
+pulse
+let (= пусть) (coll)
+waste ground
+to blaze
+radical
+iridescent; radiant
+run
+banditry
+robber’s, brigand’s
+to get divorced; breed
+with irritation, crossly
+to fly apart; scatter, shatter
+to be seated, placed, accommodated, take one’s place
+variety, type
+to break; explode
+to be ruined, bankrupt
+to be permitted; be resolved
+race (ethnic)
+to repent (of sth)
+to stretch out, extend
+to deal with; straighten out
+to blossom, bloom
+realism
+regularly
+regular
+to repair, redecorate
+rusty
+to be timid
+(lottery) draw; practical joke
+fateful
+luxurious
+tall, strapping
+to dig, rummage (in)
+self-sacrificing
+medical, sanitary
+grey hair
+secret (adj)
+section
+seven hundred
+session; examinations
+to bend, bow
+confluence; merging
+complicated(ly)
+to mix
+to mix, mingle; get mixed up
+tar, pitch
+embarrassed
+disciplined; precise
+coincidence
+doubtful, dubious
+to concentrate (on)
+saving, life saving
+alcohol, spirit
+united
+shutter
+to get dark
+to rub off; grind down
+to push off; to knock together
+groan
+stop!
+to run around, fuss about
+cloth (adj)
+lucky man
+abacus
+cockroach
+divan
+telegraph (adj)
+patient
+pastry, dough
+push; jolt
+to stamp
+trader
+drearily
+depressed, depressing
+demanding
+training
+third
+to set off
+cowardly
+rags
+to shake
+shh! keep quiet!
+pedestal; bollard
+small cloud
+to oppress
+fishing rod
+reproachfully
+appropriately
+intention
+to humiliate
+to be destroyed
+controlled
+to be controlled; (c +inst) deal with
+intensively
+intensive, intensified
+to manage (to do sth) (coll)
+comfort, cosiness
+cosily
+to understand
+false
+porcelain
+façade
+to be characterized (by)
+to drink (coll)
+to bustle about; make efforts
+coolness; cool place (coll)
+properly (coll)
+to wheeze
+Christian
+to limp
+lame
+worst
+blooming; flourishing
+expediency
+humaneness, humanity
+to turn black
+devil’s (adj)
+monster
+foreign land
+miner
+rank, file, column
+sixteenth
+(window) blind
+to rustle
+adventurer
+aviation (adj)
+to agitate, campaign
+act (of play); document
+or (coll) (= или)
+argument
+astronomy
+basis
+to play about, indulge os
+bar
+velvet (adj)
+alcoholic (adj)
+shoe
+poorly, cheaply
+unknown
+illiterate
+knick-knack, trinket
+idler
+bottomless
+thrift
+beret
+free (without payment)
+unimpeded, unhindered
+fearlessly
+fury; rabies
+biologist
+exchange; stock exchange биржа труда labour exchange
+to demolish; take down, take off; carry away
+form (document)
+to draw near
+short-sighted
+to wander
+richly
+ammunition
+slaughter-house
+afraid (coll)
+breach
+cobble-stone; cobbles
+to mutter, growl (coll)
+currency; foreign currency
+quilted; cotton wool (adj)
+upwards
+in pursuit (coll)
+Viennese
+to believe
+version
+messenger
+to become obsolete, go out of date
+to explode
+taking, capture
+bribe
+to accuse (s.o. of sth)
+tasty
+to drown
+imperiously
+imperious; authoritative
+to draw; attract
+seaweed
+arousing, stimulating
+excitedly
+to raise, erect
+to affect, influence, put pressure on
+to anger, outrage
+to arm os
+eighteenth
+to come back to life; revive
+to be brought up; be fostered
+enmity
+hostilely
+election (adj)
+separately
+night service (church)
+all-Russian
+electoral; elected
+to leave (formal)
+to pronounce, articulate; (coll, i only) tell off, reprimand
+to survive
+to throw out
+to sweep out
+payment
+to be fulfilled
+prominent, bulging; convex
+to throw out, chuck out (coll)
+harbour
+coat of arms
+heroism
+gymnastics
+my dear (coll)
+fee; royalties
+to chase (after)
+to get excited
+citizen (f)
+to warm os
+resonantly; with an echoing sound
+festival, fete, open-air party
+nineteenth
+wheeler-dealer
+rudeness; audacity
+goodness, kindness
+prehistoric
+documentary (adj)
+blast furnace
+annoying
+authenticity, reliability
+to tear; thrash; fleece (coll)
+oak (adj)
+to be naughty, fool about (coll)
+smoky
+smoke-coloured
+deacon
+uncle; man, bloke (coll)
+fir; spruce
+capacity
+burning
+(it is) desirable
+mouth, muzzle
+millstone
+cheerful, happy
+oblivion
+solicitously
+to wander in, drop in; stray
+suntan
+to bend
+to fence in; obstruct
+loading
+delay
+to begin to ring
+to keep repeating (sth); (+inf) get into the habit of (coll)
+to fly in; (за +a) fly behind
+to be flooded; (+inst) start to do sth vigorously
+to disguise, camouflage
+trap
+infection; (coll) pest
+to infect (s.o. with sth)
+to kill
+to shield, conceal, screen
+to give hope (to), reassure
+to close
+to go missing, be mislaid; vanish (coll)
+to bang, slam
+to defend os; defend one’s thesis (for a higher degree)
+to yawn
+agricultural
+villain
+sharp-sightedly, vigilantly
+son-in-law; brother-in-law
+idealism
+to be published
+since long ago
+publishing (adj)
+with amazement
+bourgeoisie
+class (political) (adj)
+(uncut) diamond
+vessel
+monopoly
+five-year plan
+seagull
+acid; acidity
+consul
+Austrian
+Austrian
+ham, gammon
+major
+all-union (relating to all the republics of the USSR)
+carbon
+manager
+colonial
+Red Army soldier
+scarf
+(a) hair
+specialized
+expert
+Arab
+refugee
+watch (on ship); special work shift
+trust; group of companies
+hockey player
+horseman
+calculating, computing
+plaster (of Paris)
+associate, socialize (with)
+state order (for goods); stocking up
+monarchy
+morality
+duration
+target
+pay, wages, salary
+route, course (of road etc.)
+Cossack (adj)
+cook (f)
+bond
+waltz
+stem (of ship - adj); fodder (adj)
+astronomer
+opinion, outlook
+code, codex
+air (broadcasting); ether
+ashes, cinders
+military jacket, high-necked tunic
+concentration
+to wait (coll)
+excellency (title)
+bourgeois (noun) (coll)
+ideological; containing ideas; progressive; high-principled
+electronic
+tugboat; tow-rope
+lackey; servant
+pass, permit; blank, gap
+sediment; deposition; after-taste
+vegetable (adj)
+cell
+gunner
+coexistence
+winter of crops
+lieutenant (tsarist army)
+maid (servant)
+terrace
+universe
+hatch, hatchway, manhole
+sceptic
+luminous
+crystal, cut glass
+plough
+chastushka, witty rhyme
+screen
+allied; of the USSR
+speculator
+trainer, coach
+bar, ingot
+granite
+rabbit
+monumental
+hydrogen
+point (in scoring); (pl) glasses, spectacles
+mine (for minerals)
+football
+farm; Ukrainian hamlet
+consumption
+republican
+crater
+atmospheric
+light (adj, as in ‘light year’)
+Cossack village
+ore
+grandmother; old woman (coll)
+Canadian (man)
+maize
+lyrical
+bunk, plank-bed
+scientific and technical
+sulphuric
+flank
+six; group of six
+boss, chief
+beam (of wood or metal)
+Egyptian
+to radiate
+communist (adj)
+counter-revolution
+foundation pit, trench
+lens
+string of carts; military transport
+even (coll) (= даже)
+barman
+cubic metre
+barrow, burial mound
+metallurgical
+observatory
+report (adj), reporting
+payment (adj)
+payment
+while (coll) (= пока)
+juicy, rich
+(dry) land (opposite of sea)
+agitator
+alpine
+dad, father (coll) (= батюшка)
+Bolshevik (adj)
+stability
+grammar-school pupil
+emerald
+planning
+crop productivity, yield
+physical training
+oral
+taking out; collection (of letters)
+accordion (coll)
+town committee
+loaded (of weapon)
+caravan; convoy
+crown (of tree); crown (currency)
+mechanics
+cloak, mantle, cape
+to set aside
+pavilion
+patrol
+port (adj)
+to ask for
+sculptor
+to lean (against); come up against
+plenipotentiary; person authorized
+washer; (hockey) puck
+civilian (adj) (not military)
+bayonet
+album
+the Virgin
+gross (adj)
+goal (sport)
+docker; freight handler
+double-sided, two-way; bilateral
+devaluation
+desiatina (about a hectare)
+peak (of cap)
+subjective
+rein
+scale; gamut, range
+cornice; ledge
+timber
+survey; questioning
+Catholic (adj)
+comet
+literary man, man of letters
+transportation
+mobile, agile
+planning (adj); projected
+(sea)shell; sink, wash-basin
+(small) seed
+sulphur
+sour cream
+it is fated
+bringing in
+foreign-policy (adj)
+pest
+subsidy
+waistcoat
+illness
+physical training, fitness
+(mineral) deposit
+grain (adj)
+to be manufactured; get ready
+inspection
+collectivization
+design (adj)
+cooperation
+forest warden, ranger
+deprivation
+producer
+phenomenon
+radio operator
+strengthening
+uranium
+boor (coll)
+crystal (adj)
+alcoholic (noun)
+fraught (with)
+geography
+mentally; cordially
+lime (chemical)
+stable
+groats (grain)
+frog
+metallurgy
+cape, promontory
+to investigate
+cut
+truce
+raft
+to be envisaged, be stipulated
+compulsion
+increase
+to guess, work out
+to open; dissolve
+jet-propelled
+trot; lynx
+rucksack
+signaller; communications engineer
+synthetic
+compassion
+start (sport)
+to dry (sth)
+ten-day period
+conqueror
+reel, spool
+Chinaman
+commandant’s office
+cutlet; meatball, hamburger
+mathematical
+microphone
+intensification, sharpening
+pirate
+swimming trunks
+culinary
+aged, of advanced years
+blizzard
+reporter
+swinish trick (coll)
+(female) secretary (coll)
+taiga (adj)
+conviction
+Scottish
+sword
+staff, headquarters (adj)
+splinter, chip
+evolution
+equator
+lamb
+Australian (adj)
+antisemitism
+bean
+pin
+band, gang
+appeal
+utmost, every kind of
+debut
+natural science
+mercy, charity
+merry-go-round, carousel
+air conditioner
+self-financing
+scent; instinct, intuition
+white-hot; tense
+innovator
+optimal
+framework
+compartment
+to screw up one’s eyes, half close one’s eyes
+run, race
+to shed tears
+cheekbone
+rocket (adj)
+carving
+ancestral; generic; birth (adj)
+social-democratic
+toilet
+footballer
+small suitcase
+chauvinism
+blinkers
+advance (payment)
+atheistic
+grandmother’s (possessive adj)
+plaster
+heresy
+torture-chamber
+kefir, yoghurt-type drink
+to inform, notify (bookish)
+kalach (small white loaf)
+nickname; name (of pet animal)
+small bell; bluebell
+composition
+contour; outline; electrical circuit
+coordination
+hummock
+child’s building brick
+hen (coll) (=курица)
+bushes, shrubs
+glacial
+to model, mould
+lyric poetry
+to be slow, tarry
+sweet, nice, dear
+mosaic
+to warm os, warm up
+renovation
+to get to know, experience
+to stop (for a while), pause
+timetable
+soot
+luminary
+cutting; section
+plum
+intercourse
+carcass
+team (of horses, dogs); harness
+utopian
+(coll) popular; operational, working
+sensitivity
+wonderful
+headlamp
+lock, sluice
+seam
+scar
+emigrant, emigre
+nitrogen
+aristocrat
+demon
+summer-house
+equipping with amenities
+marsh (adj)
+brooch
+to vary, modify
+to branch
+look!
+water-pipe
+to become aroused
+wax (adj)
+to be delighted (with)
+cinema
+access (to)
+object; construction site, building
+governor
+gentry
+to wonder, marvel (at) (coll)
+dictator
+gutter, chute
+naval
+vein
+crumbled, chopped up
+evaporation
+cutter, launch (boat)
+textile (adj)
+bale
+slag-heap, dump
+outflow; expiry, termination
+kerosene (adj)
+cone
+serfdom
+ice (adj)
+flat cake; scone; lozenge, pastille
+forester, forest ranger
+maximum
+typist
+national, of the whole people
+original; eccentric (noun)
+orientation
+to shower (s.o./sth with sth)
+(little) feather (coll)
+pedestrian, foot (adj)
+St Petersburg (adj) (coll)
+victorious
+to punish
+regimental
+(written) addition
+between (coll)
+cutting tool; incisor (tooth)
+reproduction
+to show off, pose; seem
+handle
+sickle
+lilac
+little dog (coll)
+contact
+alloy
+cut; cut edge
+flow; drain
+thin stream, trickle
+cheese
+thermometer
+transportation
+hold (of ship)
+usable land
+surviving
+participant (f)
+estate
+instinct
+intensive
+Spanish (adj)
+carrier, cabman
+research (adj)
+Caucasian, of the Caucasus
+barracks
+trap
+careerist
+saucepan
+cough
+dagger
+gut, intestine
+blade
+clown
+ball (of wool etc.)
+male dog
+some, certain
+commercial
+collector
+well
+to batter
+prickle
+set, complete set
+escort
+skates
+cognac, brandy
+to coordinate
+to swarm
+smoked
+spear
+royal
+communal
+cosmonaut
+crab
+to creep
+gentle, meek
+horizon, outlook
+to spin; circle
+Crimean
+curly
+course, courses (of study)
+avalanche
+icon-lamp
+landscape
+thoughtlessness
+chronicle
+catching
+false
+magnifying glass
+cradle
+main line; main road
+magnet
+mother’s (possessive adj)
+March (adj)
+disguise, camouflage
+swing, stroke
+pendulum
+instantaneous; momentary
+doctor; medical specialist
+slow
+revenge
+to throw, cast
+accurately
+to mechanize
+mirage
+myth
+centuries-old
+mobilization
+wrinkle
+moss
+ant
+sediment
+mental
+to moo; bellow
+alarm bell
+for ever
+impudent
+additional storey; superstructure
+mercenary
+available; cash (adj)
+directly; bluntly (coll)
+to fix (sth onto sth)
+inhabited
+by force
+to (the) death
+to prick up one’s ears, be on one’s guard
+to satiate; fill (sth with sth), saturate
+saturated; rich (in content)
+here you are, take it (coll)
+to pull tight; pull on
+unfavourable
+joyless
+no-one knows (coll)
+unattractive
+illiteracy
+irreplaceable
+inevitably
+immense
+unusually
+careless
+inalienable, integral
+irreparable
+indispensable
+indecently
+irregular
+uncomplicated
+undoubted
+untouched
+discomfort, inconvenience
+unstable
+unacceptable
+note (sound)
+tedious
+offended
+to live, reside
+ to put round
+to assess (for tax)
+to embrace one another
+to become rich
+to enrich
+wallpaper
+to defend os (from)
+doomed
+to drop (and lose); let fall
+detailed, thorough
+bombardment
+to teach (s.o. sth)
+ordinary
+to glance over
+occupation (adj)
+fetters
+to outstrip; forestall
+to recover
+good organization
+to organize
+gun, cannon (adj)
+liberated, free
+in autumn
+insulting
+to become weak
+dazzling
+to equip (sth with sth)
+to realize
+the rest, remainder
+to cut, clip
+islet
+beating off, repulsion; retreat
+to serve (a period of time); (bookish) depart
+courage
+to push away (sth heavy); cast off (boat)
+steep
+response
+excerpt
+mistaken
+requiem
+ferry
+passive
+singer
+ashtray
+to throw over
+to change one’s mind
+to cover again; block off
+flying over; migration (birds)
+to be carried (over)
+to change one’s clothes; disguise os
+to be interwoven
+reworking
+to step over
+Persian
+personnel, staff
+to saw; (coll) nag
+plastic (adj); artistically expressive
+captivating
+solidity; density
+to be rather afraid of
+to get on board, embark
+loading
+to suppress
+to prop up
+to put under
+to push slightly; (coll) urge on
+self-controlled; well turned out, smart
+to donate; (+inst) sacrifice
+cover; bedspread
+floorboard
+pay, wages (coll)
+hollow
+to wave (for a while)
+to delay, hesitate
+to seem (coll), imagine
+dung, droppings
+mark, note
+field (of activity)
+on the way; in passing
+accompanying; passing
+to gladden, please
+to be glad (at)
+defeated; astounded
+jerkily; suddenly
+to comprehend; befall
+darkened
+to have a talk about sth with s.o. (coll)
+hereditary
+staggered, stunned
+funeral
+like a human being
+how much?; how? (coll)
+postman
+respect
+ancestor
+prediction
+premiere, first night
+to hinder
+to look closely at (coll)
+suburb
+reception (adj); adopted
+stocky, squat
+to use as a cover, hide behind
+with reference to
+to join, side with; (i only) примкнуть p adjoin, be adjacent to
+elated
+to grip; fasten; take (coll)
+to cause
+to awaken
+to spend (a certain time)
+to get hungry
+to advance, move forward
+food (adj)
+productivity
+thoroughfare; journey
+nickname
+crime, criminality
+hire
+curse
+to climb through, go through
+to exchange (sth for sth)
+trade, business
+penetrating
+genuine, complete, of good quality
+shaft of light; aperture
+pardonably
+to contrast (sth with sth), set sth against sth
+slowly, lingeringly; with a drawl
+publication
+starting up, launch
+the number five; excellent (exam mark)
+developed, mature
+to become talkative
+to gape (coll)
+to heat up
+to grow, expand, spread
+to cut up
+to find out
+departure, dispersal
+explanation
+to say goodbye (to s.o.) (coll)
+upset
+to pace up and down
+to tug; (coll) jerk into motion
+to reconstruct
+relief (geog, art)
+repression
+parents’
+spring (water source)
+romance, romanticism
+to react (to)
+ruby (adj)
+heading, rubric
+handshake
+fishing (adj)
+gardener
+female (animal)
+home-made vodka
+suicide
+sugary
+beet
+to overthrow
+to get light, dawn
+(high) society (adj); secular
+(it is) characteristic (of)
+combustion
+in the heat of the moment
+shifted
+to control os
+sweater
+sector
+seriousness
+Siberian
+sieve
+through (adj)
+phial, bottle
+frying-pan
+to accumulate
+tongue-twister; rapid speech
+to be famous for
+Slavonic
+build, composition; addition (arithmetic)
+to wash off
+to be taken off; move off; have one’s picture taken; come off; act in a film; be photographed
+small dog; trigger; catch
+to be observed, be adhered to
+to adjoin, be in contact with
+weed
+social democrat
+to combine (sth with sth)
+fall, slump
+speculation
+urgently, hurriedly
+urgent
+diligently, painstakingly
+flock, pack
+pivot, rod
+washing (of clothes)
+strategy
+rafter, roof beam
+superstitious
+ground (adj) (troops)
+real, absolute (coll)
+frock-coat
+door-plate, nameplate, plaque
+tactical
+tank (adj)
+packaging
+Tatar (adj)
+creatively
+calf
+clearly; properly (coll)
+theoretically
+to torment; pull about
+tightness; cramped conditions
+technical college
+tiger
+tiresome
+thinly; delicately; subtly
+cake
+spring-board; ski-jump
+to worry
+triangle
+thirteen
+thorough
+to tidy up; clear off, make os scarce (coll)
+agreement; persuasion
+indication; instruction
+removal
+to run away, do a bunk (coll)
+to be indicated
+evasively
+reproach
+to wrap (s.o.) up
+to improve
+skilful
+to multiply
+dejection, gloom
+persistence; obstinacy
+to cope with (coll)
+regulation; adjustment
+with a moustache; whiskered
+to make an arrangement (with s.o. about sth/to do sth)
+conditionally, provisionally
+to hear (= услышать р)
+to see (sth in sth), interpret as
+to seize
+torch
+actual
+farmer
+physically
+flute
+to form
+shack, cabin
+to giggle
+cool, calm, composed
+bravery
+hoarsely
+hoarse
+tsarina, empress
+quite often (coll)
+partially
+worm
+Black Sea (adj)
+wonderfully
+sensitive
+cabin (made of branches)
+champagne
+chess (adj)
+small cupboard
+highway (adj)
+chink
+shield
+economically, thriftily
+power engineering
+stage
+ethics
+amber (adj)
+amber
+hell
+chord
+activization
+altar
+antenna; aerial
+orange
+apostle
+army (adj)
+allocation
+ram (sheep)
+bayan, Russian accordion
+illiteracy
+abyss; (coll) (+g) great quantity
+heartless
+selflessly
+silently
+with impunity
+correctly, accurately
+unsuccessfully
+whitewash
+to be careful
+without trace
+shamelessly
+businessman
+successful
+bliss
+permissible
+dug out
+small dish, saucer
+rich man
+cheerfully, heartily
+boldly, briskly
+to bomb
+bracelet
+ferment
+reservation, booking
+armour-plating
+throw; bound
+booth
+literal
+(open) sandwich
+bookkeeper
+bureaucratic
+bureaucracy
+to pieces
+crown, wreath; halo
+to cheer up; amuse
+weighty
+little thing, knick-knack
+mutually advantageous
+penalty, punishment
+vineyard
+screw; propeller
+long-term
+vice-president
+to the left
+impressively
+to involve (s.o. in sth)
+waterfall
+together
+militarism; militarists
+guide, leader
+elevated; lofty
+ox
+flagrant, scandalous
+stealing
+crow
+grumpily, querulously
+eight hundred
+comprehensive, all-embracing
+vulgar
+entrance (adj)
+to unload
+to stick out
+issue, giving out
+to move out; go up in the world
+expectantly
+waiting, expectant
+to wait (for)
+to recover, get better
+to come to the surface
+to thrust out
+high-quality
+heroic
+clay (adj)
+gulp, mouthful
+to bend
+suitable
+Dutch
+covering of ice; icy weather
+neck (of bottle); small throat
+mustard
+to threaten (coll)
+to thunder, rumble
+ridge; bed (garden)
+bed (for plants), flowerbed
+destructive
+virgin (adj)
+to be on duty
+kids (coll)
+act, action (bookish)
+kindly, good-naturedly
+to be obtained
+confidentially
+to trust (in), confide in
+trusting
+shower (rain)
+speaker (at conference)
+doctrine
+report, dispatch
+reliable
+to die (of animals)
+to breathe
+nameplate; small board
+milkmaid
+trembling
+cudgel, club; blockhead, idiot
+arc, curve
+pipe, fife
+smoke (adj)
+full of holes
+devilishly
+unanimously
+plaintive; complaints (adj)
+hardy, enduring
+alive (coll)
+life, biography
+to mutter
+to throw, cast; abandon; neglect
+to be finishing, end
+to bequeath (sth to s.o.)
+mysteriously
+to die away; stall (engine); go to seed
+to tire out
+beyond the grave
+back, rear; rump, backside
+long before
+to light up, be lit
+to screw up one’s eyes; half-close one’s eyes
+interested (in)
+to boil
+laying; bookmark
+to wind, twist; tire out
+to spend the night
+transoceanic
+to stock up (with)
+to suspect (s.o. of sth)
+to be late (with)
+ban
+to harness
+to get confused
+overgrown
+to sit down, lodge os (coll)
+shy
+to conceal
+to make difficult, complicate; trouble
+delay; inhalation (smoking)
+to start smiling
+ordinary, mediocre
+to turn green, look green
+to ascertain; certify
+celebrity
+hot weather
+mature, ripe
+to ripen, mature
+imported
+idyll
+idol
+to beat up
+excessively
+illustration
+name-day
+inertia
+foreigner
+ironical
+search
+tested, tried
+to flow out; expire (time)
+hysteria
+source
+extermination
+to exhaust
+slavery; servitude
+small room (coll)
+caprice
+hard-labour (adj)
+rubber
+to repent
+upwards
+pile, stack
+whale
+laying
+checked
+climatic
+cranberry, cranberries
+nag (horse)
+mare
+little wheel; cog
+little ring, ringlet
+cradle
+conservatoire, music academy
+canned food (adj)
+counter-revolutionary
+(p по-) to be fed, eat; (p про-) live on
+queen
+crown
+self-interested, mercenary, selfish
+bone (adj), made of bone
+brief, short-term
+painted; dyed
+to behave affectedly (coll)
+crookedly, squint
+lace
+on a large scale
+curls
+bathing
+compartment (train)
+to get on with (s.o.)
+swan
+legal
+glacier
+small staircase; short ladder (coll)
+lumberjack
+to lick
+lemon
+fox
+to leaf through (coll)
+lift, elevator
+privilege, advantage
+block of ice
+love (adj)
+bear’s
+between
+to freeze
+to measure; try on (clothing)
+to twinkle, flicker
+fur
+mechanized
+mechanically
+bourgeois, petty bourgeois; narrow-minded
+petty bourgeoisie, lower middle-class
+microbe
+almonds; almond tree
+minimum (adj)
+meaningfully
+hammer
+entreaty
+monarchic
+monopoly (adj)
+to sway; rush about (coll)
+motor, engine (adj)
+motorcycle
+swindler
+wise man
+museum (adj)
+rubbish (adj)
+to rush, speed along
+awning
+to visit
+meat (adj)
+to come unexpectedly (coll)
+addition, supplement
+hired
+to accumulate
+incline, lean
+like, resembling
+to fill (with)
+growth, increase
+to populate
+inherited
+for good, for ever (coll)
+mentor, tutor
+to get up to, do (sth bad) (coll)
+to run into, come up
+against impudence
+while awake; for real
+horizon
+non-interference (in)
+impossibility
+at random
+involuntary
+unworthy
+than (old word) (= чем)
+illegally
+unhealthy
+there is no-one
+absurdly; it’s absurd
+unique, exceptional
+incomprehensible
+wrong
+unaccustomed, unusual
+untouchable, inviolable
+impassable; (coll) utter
+incomparably
+impatient
+unsuccessfully
+inappropriate, misplaced
+oil pipeline
+unwillingly; unintentionally
+nonentity
+novelty, newness
+small knife, penknife
+scissors
+burrow
+small nose; toe (of shoe); spout
+spending the night, night’s lodging
+burden
+to take round; (+inst) surround (with)
+inhabitant
+shabby, scruffy; mangy (coll)
+revealing; discovery
+basis; grounds, justification
+to substantiate, justify
+to intensify, worsen, aggravate
+graphic, evocative; figurative
+to put shoes on s.o.; provide with shoes
+courteous, well-mannered
+well-known, generally known
+community
+objectivity
+man-in-the-street; philistine
+(official) search
+ovation
+bare, exposed
+distress
+to distress, disappoint
+to straighten (clothing); (coll) call to order, tell s.o. to be quiet
+eleventh
+individual, single, solitary
+to look round
+to get angry (coll)
+embittered
+familiarization, getting to know
+rendering
+to occupy
+opera (adj), operatic
+lateness
+to find one’s way; (на +a) be orientated towards
+to enquire about
+to be illuminated, light up
+equipping; equipment
+well-founded; solid; thorough
+to break away from; repulse, beat off; stray
+heating
+to print (off)
+sending off, dispatch
+to renounce (sth)
+to chop off
+lag, lagging behind
+to push aside; remove
+to cool
+dirty trick; filth
+small finger
+mangy; shabby, nasty
+to outdistance, outstrip; drive (sth swh); distil
+to shift
+to remake, alter
+apron; pinafore
+crossing; removal (change of residence)
+to play again; overact
+to flow (swh); overflow; (i only) glisten, play (of colours), modulate
+break, fracture; turning-point
+transfer, carrying over; hyphenation
+portable; metaphorical
+to rewrite; copy out
+crossing; crossing place ford
+to move, migrate
+to shift; rearrange
+to shove, barge, push (coll)
+to intercept
+pepper
+person
+writer’s, literary
+smooth, flowing
+planned, systematic
+tearful
+tribal; thoroughbred
+flesh
+dance
+nearby; hereabouts
+champion, keen supporter (of)
+motive, stimulus
+habit, (habitual) behaviour (coll)
+cart, carriage
+giving; serve (tennis)
+to throw, toss (up); jolt; add
+to move
+use (of sth)
+at first (coll)
+foot (of mountain etc.); pedestal
+window-sill
+to eavesdrop (on s.o.); (p) overhear
+lifting (adj)
+to chew
+to burn up
+disgracefully, shamefully
+striped
+to blaze
+to keep quiet (coll)
+landowner’s (adj)
+platform, rostrum; scaffold
+to lower; reduce
+to promise (sth to s.o)
+replenishment; reinforcement(s)
+fellow-traveller
+equally
+empty (coll)
+to swear; (c +inst) (coll) have a row with
+the day after tomorrow
+lenten, meatless; without meat or milk; (coll) lean (of meat); (coll) gloomy, glum; (coll) sanctimonious
+to knock, tap, patter
+posterity, descendants
+to consume
+to be (swh)
+splendidly
+order, instruction
+entrepreneur, businessman
+to predominate
+criminal (adj)
+affable, friendly
+suburban
+to come near, move up
+to hold back, check
+waiting-room
+acknowledged, recognized
+(it is) noteworthy
+reconciliation
+fit, attack
+stores, supplies; provisions
+to swear an oath (of sth to s.o.)
+blank, gap
+to pierce
+agent provocateur; provoker
+to thunder, resound
+to take a walk
+to demonstrate, show
+to nickname (s.o. sth)
+miss; blunder
+intermediate
+piercingly; stridently
+to propagandize, promote
+proportional
+to oversleep
+to extend, stretch
+(it is) spacious
+to catch a cold
+to rub; rub through
+to stretch out; extend
+scoundrel (coll)
+passing, passage
+to flourish
+clarification, clearing up; clear period (weather)
+twig, switch; small rod
+bee
+millet
+binge, booze-up (coll)
+heel
+to scatter; take a run-up
+reconnaissance (adj); intelligence (adj)
+to hang up (a number of things); weigh out
+shattered, splintered, disunited
+to spill; overflow
+to differ
+placing, allocation, accommodation
+heterogeneous
+to disperse
+to ruin
+disappointed, disillusioned
+to romp; warm up, get into one’s stride; (storm etc.) break, rage
+racism
+to bite through; (p only) (coll) suss out; get to the heart of sth
+to give orders; (+inst) deal with, manage, be in charge of
+to spread out
+disorder
+to spill, scatter
+vegetation
+realistic
+child’s; childish
+jealous
+craftsman; hack
+sieve
+matting
+small horn; horn (instrument)
+romance (song)
+market (adj)
+salute; firework display (in honour of s.o. or sth)
+self-criticism
+self-awareness
+to save; protect
+to lower, let dangle; (p only) (coll) weigh
+sensation
+September (adj)
+service, set (of dishes)
+serial
+sitting; (preferably сиденье) seat
+bruise
+rocky
+scandalous; (coll) quarrelsome, rowdy
+grief
+modestly
+modesty
+to send
+word; apt remark, witticism (coll)
+servant
+to make (s.o.) laugh, amuse
+chuckle
+vaguely, dimly
+to equip
+condescendingly; leniently, indulgently
+condescending; lenient, indulgent
+to improve os; improve one’s knowledge (of)
+rich in content, profound, interesting
+toy soldier
+solidly, substantially, weightily
+to build, construct
+compatriot
+to compare
+to accompany
+magpie
+neighbour’s
+intently, with concentration
+formation, making, compiling
+icicle
+haste
+to jump off
+to cut down, cut off; shut s.o. up
+small glass
+strike (= забастовка)
+glazier
+wall (adj)
+steadfastly
+to wander, travel
+shooting (adj); rifle, infantry (adj)
+shaving, shavings
+to stream
+skirmish; squabble
+convulsively, feverishly
+bitch
+cloth
+gloomy; dreary
+piece of dried bread; rusk
+subject, plot
+hiding-place
+tank soldier, member of tank crew
+territorial
+to crowd, jostle
+auntie; (old) lady
+title
+typhus
+turner, lathe operator
+clever, sensible; clear, comprehensible; (словарь) explanatory
+to triumph (over); (+a) celebrate
+soberly
+triumph
+touching, affecting
+stunt; trick, ruse
+tight
+tourism; hiking
+Turk
+thousand-year (adj)
+burden
+weighty
+to award s.o. sth; (+a +inst) favour s.o. with sth
+to avoid, evade (sth)
+to take root
+to become stronger; become fixed; consolidate one’s position
+universal; versatile, multi-purpose
+to calm down
+to be mentioned
+putting in order, regulation
+(coll) control, means of control; (hist) management, administration, justice
+simplified; over-simplified
+obstinacy
+to strew, dot, litter (sth with sth)
+removal, elimination
+to become established
+comfort, solace
+iron (for ironing)
+fish-soup
+final (sport); finale
+finish
+Finnish
+stage of development; formation
+puny, decrepit
+surgeon
+Christianity
+chronicle; news items; newsreel
+to scratch
+expedient
+purposeful
+civilized
+gypsy
+jaw
+alternation
+four hundred
+Czech (adj)
+cleaning; purge (political)
+reader’s
+to sneeze
+excessively
+to sway; wobble; (coll) loaf about
+unsteady
+chess
+sewing
+to stir
+skin, peel, husk
+rough (to the touch)
+to spread, expand
+(pine/fir) cone; bump; (coll) big noise, VIP
+to loaf about (coll)
+spur
+headquarters
+gale (adj)
+generosity
+puppy
+electronics
+striking, done for effect
+fried eggs
+fair, trade fair
+aircraft carrier
+autonomous
+excitement, fervour
+alphabet
+shark
+alcohol
+lease
+butterfly
+luggage
+cistern, tank
+old clothes, jumble; junk (coll)
+vigilant
+hip; thigh
+to do nothing; stand idle
+irresponsible
+uncomplainingly, without a murmur
+carefree, unconcerned
+stupid; incoherent, muddled
+bandage
+flea
+to dangle; hang about (coll)
+razor
+wild, unruly
+true story, fact
+bulletin; ballot-paper; medical certificate
+to breathe in
+majestic
+landmark; stake, marker
+payment; fee; subscription
+fork; (two-pin) plug
+gallows
+distinctly, clearly, audibly
+to hoist, erect
+to abstain (from)
+to stink (of)
+enthusiasm, fervour
+with one’s own eyes, for os
+heap, pile
+wax
+to invade
+proceeds, earnings; rescue
+projection; ledge
+tower; turret
+flabby, limp
+agreement
+to rot
+vile
+hump
+hail; (poet) city
+caterpillar
+tribute, homage
+to put (coll)
+virtue
+conjecture
+made of planks, board (adj)
+perfume
+fragrant
+gospel
+Jew
+unanimously
+hedgehog
+genre
+to fry; roast
+pearl
+fat, grease
+terrible
+habitue; regular customer
+title, heading
+registry office
+fervour, vigour
+loan
+back alley; nook, cranny
+deposit, guarantee, pledge
+confusion; consternation
+reserved, unsociable; secluded, private
+in one’s absence; externally (of study for a degree)
+to stumble
+spare part
+to fasten
+fairly good, quite large
+to choke
+to misuse, abuse (sth)
+distinguished, outstanding; (hist) high-born, noble
+umbrella
+unsteady, unstable
+willow
+caviare; calf (of leg)
+to distort
+temptation
+gradually (coll)
+cripple
+reed, rush
+brown, hazel (of eyes); chestnut (of horses)
+receipt
+to peck
+glue
+flower-bed
+rug
+claw
+anyhow, carelessly; somehow or other, somehow
+thickset, stocky
+slanting, oblique, squint; cross-eyed, squinting
+eloquence
+wreck, ruin, collapse
+to turn somersaults, go head over heels
+idol
+drinking-bout
+hole; loop-hole
+varnish
+swallow
+blade
+flattering
+to rejoice
+hypocrisy
+to flatter
+to grease, smear
+lighthouse; beacon
+vileness; sth disgusting
+to sweep
+little finger; little toe
+bowl
+corn (on foot), callous
+rebellion
+sketch, rough draft
+by heart, from memory
+contrary, counter (to), in defiance (of)
+reprimand
+planting; propagation
+cold (in the head)
+stuffing, filling (of pie etc.)
+daughter-in-law; sister-in-law (brother’s wife)
+uninvited
+unshakable
+frenzied
+fault, defect
+relaxed, unconstrained
+muddle (coll)
+incompatible
+with an ulterior motive, not without a reason (coll)
+confusion (coll)
+nobody’s
+nature, disposition (of person)
+to whine, complain; ache
+to smell, sniff (sth)
+charm
+to curb, restrain
+worried, preoccupied
+deer
+disgusting, revolting
+pool, deep place in river; whirlpool
+guardianship, trusteeship; surveillance, care
+sawdust; metal filings
+slip, blunder
+mounting, frame
+tidy, neat
+to contest, dispute
+selected, specially chosen
+to get rid of; (+inst) get off, escape (with)
+excellent
+to poison
+to stun, astound
+bag, plastic bag
+front garden; stake fence
+pavement; panelling, panel
+cloudy, overcast; gloomy
+stepson
+scorching heat; hell (coll)
+nappy, diaper
+breathing-space, rest, short break
+list, enumeration
+feather-bed, duvet
+platform (railway station)
+feast
+cake, pastry
+to squeak, squeal; cheep
+plastic
+mould
+to splash
+liver
+beach
+to prompt, induce (s.o. to do sth)
+subject, citizen
+sole (of shoe, foot)
+subsidiary, supplementary
+positive
+admirer
+to conquer, subjugate
+sexual
+a hundred and fifty
+estate
+tomato
+to encourage
+in half, half-and-half
+piglet
+tailor
+proverb
+obedient
+to deliver, supply
+fun, amusement
+hangover
+honour, mark of respect
+vulgar; trivial, banal
+orthodox (religious term); (as noun) member of Orthodox Church
+great-grandfather
+idleness
+reprehensible
+unsalted; flavourless, bland
+to find fault with
+acceptable
+grateful
+to pretend (to be sth) (coll)
+shelter, refuge
+quick, agile
+strait
+penetrating; shrewd
+millet
+pond
+nestling, fledgling
+down, fluff
+heat, ardour
+vacuum cleaner
+divorce
+expanse, open space; freedom
+striking
+discord; disorder
+incomplete (of set); scattered, uncoordinated
+to perform; raffle, draw lots (for sth); play a trick (on s.o.), fool
+rumble, roll, peal
+repentance
+reason, ability to think
+dishevelled; tattered
+to rush, charge, dash
+difference; discord, disagreement
+roar, rumble
+mitten, glove (without fingers)
+to sob
+person of the same age, contemporary
+herring
+public garden
+draught
+to wander, roam
+shell
+grinding (noise)
+to have the reputation of, be considered
+saliva
+adjacent, adjoining, connected
+estimate
+confusion, disarray, panic
+to crumple, crush
+to dash about, scurry
+knack, skill
+to tempt; seduce
+nightingale
+gossip
+reference book, guide
+period of service, period of work or training
+icy cold, severe frost (coll)
+round-shouldered, stooping
+to knock down (coll)
+basin; pelvis
+coupon
+mother-in-law (wife’s mother)
+to rot; smoulder
+in vain
+lots (of) (coll)
+moderate
+elastic, springy
+freak, monster
+discretion, judgement
+leak
+tiring; tedious
+to smirk, grin (coll)
+fairy
+flakes
+hope; expectation
+to scratch
+to honour
+cliche; routine; pattern
+to shuffle
+procession
+cord; lace; flex, cable
+stack, pile
+smart, quick, agile (coll)
+to tickle
+bristles, bristly surface; stubble (of beard)
+pike (fish)
+to feel, touch (sth), probe
+to screw up one’s eyes, narrow one’s eyes
+suburban train (coll)
+bookcase
+furious, raging; fervent, rabid
