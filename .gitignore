@@ -1,22 +1,9 @@
-# Python virtual environment (scoped to src/python)
-./src/python/**/venv/
-./src/python/**/env/
-./src/python/**/.venv/
-./src/python/**/__pycache__/
-./src/python/*.pyc
-./src/python/**/.Python
-./src/python/**/pip-log.txt
-./src/python/**/.env
-./src/python/**/.pytest_cache/
-./src/python/**/.pytype/
-
-# Virtual environment directories (scoped to src/python)
+# Ignore venv-related dirs inside ./src/python, regardless of parent name
 ./src/python/**/bin/
 ./src/python/**/lib/
 ./src/python/**/lib64/
 ./src/python/**/include/
 ./src/python/**/pyenv.cfg
-
-./.index.html.swp
-./index.html.swo
-
+./src/python/**/__pycache__/
+./src/python/*.pyc
+./src/python/**/.Python   
