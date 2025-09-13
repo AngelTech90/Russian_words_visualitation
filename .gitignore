@@ -16,3 +16,7 @@
 ./src/python/**/lib64/
 ./src/python/**/include/
 ./src/python/**/pyenv.cfg
+
+./.index.html.swp
+./index.html.swo
+
