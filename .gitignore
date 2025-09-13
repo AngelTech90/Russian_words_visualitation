@@ -1,18 +1,18 @@
 # Python virtual environment
-venv/
-env/
-.venv/
-__pycache__/
+**/venv/
+**/env/
+**/.venv/
+**/__pycache__/
 *.pyc
-.Python
-pip-log.txt
-.env
-.pytest_cache/
-.pytype/
+**/.Python
+**/pip-log.txt
+**/.env
+**/.pytest_cache/
+**/.pytype/
 
 # Virtual environment directories
-bin/
-lib/
-lib64/
-include/
-pyenv.cfg   
+**/bin/
+**/lib/
+**/lib64/
+**/include/
+**/pyenv.cfg   
