@@ -1,4 +1,4 @@
-#!/home/angelmolina/Desktop/GitHub_repositories/Russian_words_visualitation/src/python/data_scraping/bin/python
+#!/home/angelmolina/Desktop/GitHub_repositories/Russian_words_visualitation/src/python/data_scraping/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
