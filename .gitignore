@@ -1,9 +1,32 @@
-# Ignore venv-related dirs inside ./src/python, regardless of parent name
-./src/python/**/bin/
-./src/python/**/lib/
-./src/python/**/lib64/
-./src/python/**/include/
-./src/python/**/pyenv.cfg
-./src/python/**/__pycache__/
-./src/python/*.pyc
-./src/python/**/.Python   
+# Ignore Python virtual environments
+/src/python/**/venv/
+/src/python/**/env/
+/src/python/**/bin/
+/src/python/**/lib/
+/src/python/**/lib64/
+/src/python/**/include/
+/src/python/**/.Python
+/src/python/**/pyvenv.cfg
+
+# Ignore Python packages
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Ignore specific site-packages (optional)
+*/site-packages/
+
+# Ignore .pyc files globally
+*.pyc   
