@@ -1,11 +1,65 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
   <diagram name="Page-1" id="s2G_DUg8FZWsUAeaHFZR">
-    <mxGraphModel dx="867" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="867" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sznKyI6b7FJTqmcMl64U-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Text wrapper development&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="ZAXlTmgYnTQfZRPsk-w6-4" value="Python modules development" style="swimlane;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+          <mxGeometry x="110" y="100" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ggiRD7Z4PnGf1AHK2_T-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ZAXlTmgYnTQfZRPsk-w6-4" source="sznKyI6b7FJTqmcMl64U-1" target="ZAXlTmgYnTQfZRPsk-w6-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sznKyI6b7FJTqmcMl64U-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Text wrapper development&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=none;" parent="ZAXlTmgYnTQfZRPsk-w6-4" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAXlTmgYnTQfZRPsk-w6-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Text spliter development&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=none;" parent="ZAXlTmgYnTQfZRPsk-w6-4" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAXlTmgYnTQfZRPsk-w6-8" value="Bash modules development" style="swimlane;whiteSpace=wrap;html=1;fillColor=#05FF11;" parent="1" vertex="1">
+          <mxGeometry x="330" y="100" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-ggiRD7Z4PnGf1AHK2_T-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZAXlTmgYnTQfZRPsk-w6-9" target="-ggiRD7Z4PnGf1AHK2_T-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAXlTmgYnTQfZRPsk-w6-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Deploy branch&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26FF00;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ggiRD7Z4PnGf1AHK2_T-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZAXlTmgYnTQfZRPsk-w6-10" target="-ggiRD7Z4PnGf1AHK2_T-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAXlTmgYnTQfZRPsk-w6-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Testing branch&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0CBAFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAXlTmgYnTQfZRPsk-w6-11" value="UI development" style="swimlane;whiteSpace=wrap;html=1;fillColor=#0C91FF;" parent="1" vertex="1">
+          <mxGeometry x="550" y="100" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAXlTmgYnTQfZRPsk-w6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZAXlTmgYnTQfZRPsk-w6-12" target="ZAXlTmgYnTQfZRPsk-w6-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAXlTmgYnTQfZRPsk-w6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZAXlTmgYnTQfZRPsk-w6-12" target="ZAXlTmgYnTQfZRPsk-w6-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAXlTmgYnTQfZRPsk-w6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZAXlTmgYnTQfZRPsk-w6-12" target="ZAXlTmgYnTQfZRPsk-w6-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAXlTmgYnTQfZRPsk-w6-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Main development branches&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="10" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ggiRD7Z4PnGf1AHK2_T-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-ggiRD7Z4PnGf1AHK2_T-1" target="-ggiRD7Z4PnGf1AHK2_T-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ggiRD7Z4PnGf1AHK2_T-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Main branch&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ggiRD7Z4PnGf1AHK2_T-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Test of functional modules of program&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0CBAFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ggiRD7Z4PnGf1AHK2_T-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Documentation of project&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ggiRD7Z4PnGf1AHK2_T-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Implementation of deployment modules&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#26FF00;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
